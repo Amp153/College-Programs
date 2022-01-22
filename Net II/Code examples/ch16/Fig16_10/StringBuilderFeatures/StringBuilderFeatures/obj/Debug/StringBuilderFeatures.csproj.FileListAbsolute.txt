@@ -1,0 +1,4 @@
+C:\books\2012\VCSHARP2012HTP\examples\ch16\Fig16_10\StringBuilderFeatures\StringBuilderFeatures\bin\Debug\StringBuilderFeatures.exe
+C:\books\2012\VCSHARP2012HTP\examples\ch16\Fig16_10\StringBuilderFeatures\StringBuilderFeatures\bin\Debug\StringBuilderFeatures.pdb
+C:\books\2012\VCSHARP2012HTP\examples\ch16\Fig16_10\StringBuilderFeatures\StringBuilderFeatures\obj\Debug\StringBuilderFeatures.exe
+C:\books\2012\VCSHARP2012HTP\examples\ch16\Fig16_10\StringBuilderFeatures\StringBuilderFeatures\obj\Debug\StringBuilderFeatures.pdb

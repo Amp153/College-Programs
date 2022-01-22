@@ -1,0 +1,5 @@
+besides http requests there is also sockets(real time connection for gamming) and web sockets(for multiple persistent connections like the google office replacement apps).
+
+https://firebase.google.com/?gclid=EAIaIQobChMI9tvHsqPR2gIVRx6GCh0DowxMEAAYASAAEgJDN_D_BwE
+it's possible to make a chat app
+(nosql is were you don't really care about the data)

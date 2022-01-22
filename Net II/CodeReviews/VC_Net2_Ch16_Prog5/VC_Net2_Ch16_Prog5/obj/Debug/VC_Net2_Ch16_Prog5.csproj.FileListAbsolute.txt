@@ -1,0 +1,12 @@
+c:\users\vincent cha\documents\visual studio 2012\Projects\VC_Net2_Ch16_Prog5\VC_Net2_Ch16_Prog5\bin\Debug\VC_Net2_Ch16_Prog5.exe.config
+c:\users\vincent cha\documents\visual studio 2012\Projects\VC_Net2_Ch16_Prog5\VC_Net2_Ch16_Prog5\bin\Debug\VC_Net2_Ch16_Prog5.exe
+c:\users\vincent cha\documents\visual studio 2012\Projects\VC_Net2_Ch16_Prog5\VC_Net2_Ch16_Prog5\bin\Debug\VC_Net2_Ch16_Prog5.pdb
+c:\users\vincent cha\documents\visual studio 2012\Projects\VC_Net2_Ch16_Prog5\VC_Net2_Ch16_Prog5\obj\Debug\VC_Net2_Ch16_Prog5.csprojResolveAssemblyReference.cache
+c:\users\vincent cha\documents\visual studio 2012\Projects\VC_Net2_Ch16_Prog5\VC_Net2_Ch16_Prog5\obj\Debug\VC_Net2_Ch16_Prog5.PigLatin.resources
+c:\users\vincent cha\documents\visual studio 2012\Projects\VC_Net2_Ch16_Prog5\VC_Net2_Ch16_Prog5\obj\Debug\VC_Net2_Ch16_Prog5.Properties.Resources.resources
+c:\users\vincent cha\documents\visual studio 2012\Projects\VC_Net2_Ch16_Prog5\VC_Net2_Ch16_Prog5\obj\Debug\VC_Net2_Ch16_Prog5.csproj.GenerateResource.Cache
+c:\users\vincent cha\documents\visual studio 2012\Projects\VC_Net2_Ch16_Prog5\VC_Net2_Ch16_Prog5\obj\Debug\VC_Net2_Ch16_Prog5.exe
+c:\users\vincent cha\documents\visual studio 2012\Projects\VC_Net2_Ch16_Prog5\VC_Net2_Ch16_Prog5\obj\Debug\VC_Net2_Ch16_Prog5.pdb
+F:\Semester 3\Net II\CodeReviews\VC_Net2_Ch16_Prog5\VC_Net2_Ch16_Prog5\bin\Debug\VC_Net2_Ch16_Prog5.exe.config
+F:\Semester 3\Net II\CodeReviews\VC_Net2_Ch16_Prog5\VC_Net2_Ch16_Prog5\obj\Debug\VC_Net2_Ch16_Prog5.exe
+F:\Semester 3\Net II\CodeReviews\VC_Net2_Ch16_Prog5\VC_Net2_Ch16_Prog5\obj\Debug\VC_Net2_Ch16_Prog5.pdb

@@ -1,0 +1,12 @@
+﻿<Window x:Name="mainWindow" x:Class="Ch33Snake.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Snakes on a Canvas" Height="400" Width="400" ResizeMode="NoResize">
+    <Grid>
+        <Canvas x:Name="myCanvas" MouseMove="myCanvas_MouseMove" MouseDown="myCanvas_MouseDown" Background="#FFECDEDE">
+            <Polyline x:Name="solidSnake" Visibility="Visible" Fill="Blue" Width="15" Height="15" Stroke="Black" />
+            <Ellipse x:Name="snakeHead" Fill="Black" Width="25" Height="25" Canvas.Left="187" Canvas.Top="173" />
+        </Canvas>
+
+    </Grid>
+</Window>

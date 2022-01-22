@@ -1,0 +1,34 @@
+*{
+	color:Blue;
+}
+#page {
+	background-color:lightgrey;
+}
+h1{
+	font-size: 2em;
+	font-family: Times, Serif;
+	font-weight: bold;
+	color:darkCyan;
+	}
+li {
+	font-family: Courier, Monospace;
+	color: green;}
+li:nth-child(2) {
+		color:red;
+		font-family: Cursive;
+	}
+p {
+	font-family:Impact, Fantasy;
+	font-weight: standard;
+	font-style: italic;
+}
+a {	
+color: #FE8465;
+	}
+a:hover{
+	color: rgb(200,13,62);
+}
+aside {
+	width: 230px;
+	float:left;
+}

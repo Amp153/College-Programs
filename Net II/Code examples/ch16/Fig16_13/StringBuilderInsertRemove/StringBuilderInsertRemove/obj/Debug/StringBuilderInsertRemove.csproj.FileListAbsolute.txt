@@ -1,0 +1,4 @@
+C:\books\2012\VCSHARP2012HTP\examples\ch16\Fig16_13\StringBuilderInsertRemove\StringBuilderInsertRemove\bin\Debug\StringBuilderInsertRemove.exe
+C:\books\2012\VCSHARP2012HTP\examples\ch16\Fig16_13\StringBuilderInsertRemove\StringBuilderInsertRemove\bin\Debug\StringBuilderInsertRemove.pdb
+C:\books\2012\VCSHARP2012HTP\examples\ch16\Fig16_13\StringBuilderInsertRemove\StringBuilderInsertRemove\obj\Debug\StringBuilderInsertRemove.exe
+C:\books\2012\VCSHARP2012HTP\examples\ch16\Fig16_13\StringBuilderInsertRemove\StringBuilderInsertRemove\obj\Debug\StringBuilderInsertRemove.pdb

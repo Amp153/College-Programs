@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:h="http://xmlns.jcp.org/jsf/html"
+      xmlns:f="http://xmlns.jcp.org/jsf/core">
+    <h:head>
+        <title>Student Entry</title>
+    </h:head>
+    <h:body>
+        <h:form>
+            <h:outputLabel escape="false"
+                           value="#{student.status}"/>
+        <h3>Please enter the student information</h3>
+        
+        <h:panelGrid columns="6" style="color: green">
+            <h:outputLabel value="SSN"/>
+            <h:inputText id="tfId" required="true"
+                         requiredMessage="SSN is required"
+                         validatorMessage="SSN must have 9 characters"
+                         value="#{student.id}">
+                <f:validateRegex pattern="[\d]{9}"/>
+            </h:inputText>
+        </h:panelGrid>
+        <h:panelGrid columns="6" style="color: green">
+            <h:outputLabel value="Last Name"/>
+            <h:inputText id="tfLastName"
+                         validatorMessage="Last Name is too large"
+                         value="#{student.lastName}">
+                <f:validateLength minimum="0" maximum="25" />
+            </h:inputText>
+            <h:outputLabel value="First Name"/>
+            <h:inputText id="tfFirstName"
+                         validatorMessage="First Name is too large"
+                         value="#{student.firstName}">
+                <f:validateLength minimum="0" maximum="25" />
+            </h:inputText>
+            <h:outputLabel value="MI"/>
+            <h:inputText id="tfMi"
+                         validatorMessage="Middle Initial must have 1 character"
+                         value="#{student.mi}">
+                <f:validateLength minimum="0" maximum="1" />
+            </h:inputText>
+        </h:panelGrid>
+        <h:panelGrid columns="6" style="color: green">
+            <h:outputLabel value="Address"/>
+            <h:inputText id="tfAddress"
+                         validatorMessage="Street Address is too large"
+                         value="#{student.address}">
+                <f:validateLength minimum="0" maximum="100" />
+            </h:inputText>
+        </h:panelGrid>
+        <h:panelGrid columns="6" style="color: green">
+            <h:outputLabel value="ZipCode"/>
+            <h:inputText id="tfZipCode"
+                         validatorMessage="ZipCode must be 5 characters"
+                         value="#{student.zipCode}">
+                <f:validateRegex pattern="[\d]{5}"/>
+            </h:inputText>
+            <h:outputLabel value="BirthDate"/>
+            <h:inputText id="tfBirthDate"
+                         validatorMessage="BirthDate must be in year-month-day format "
+                         value="#{student.birthDate}">
+                <f:validateRegex pattern="[\d]{4}-[\d]{2}-[\d]{2}"/>
+            </h:inputText>
+        </h:panelGrid>
+        <h:panelGrid columns="6" style="color: green">
+            <h:outputLabel value="Telephone"/>
+            <h:inputText id="tfTelephone"
+                         validatorMessage="Phone number must be 11 characters"
+                         value="#{student.telephone}">
+                <f:validateRegex pattern="[\d]{3}-[\d]{3}-[\d]{4}"/>
+            </h:inputText>
+        </h:panelGrid>
+        
+        <h:panelGrid columns="4">
+            <h:outputLabel value="Major "/>
+            <h:selectOneMenu id="majorSelectOneMenu"
+                             value="#{student.major}">
+                <f:selectItem itemValue="CS"/>
+                <f:selectItem itemValue="MATH"/>
+                <f:selectItem itemValue="CHEM"/>
+                <f:selectItem itemValue="BIOL"/>
+                <f:selectItem itemValue="EDUC"/>
+                <f:selectItem itemValue="ACCT"/>
+            </h:selectOneMenu>
+        </h:panelGrid>
+        
+        
+        <h:commandButton value="Register"/>
+        <br />
+        <h:outputText escape="false" style="color: red"
+                      value="#{student.response}"/>
+        
+        </h:form>
+    </h:body>
+</html>
+

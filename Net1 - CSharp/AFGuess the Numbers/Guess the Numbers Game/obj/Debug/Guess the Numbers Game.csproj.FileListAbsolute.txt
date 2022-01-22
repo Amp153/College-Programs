@@ -1,0 +1,9 @@
+E:\hwork\Net1\AFGuess the Numbers\Guess the Numbers Game\bin\Debug\Guess the Numbers Game.exe.config
+E:\hwork\Net1\AFGuess the Numbers\Guess the Numbers Game\bin\Debug\Guess the Numbers Game.exe
+E:\hwork\Net1\AFGuess the Numbers\Guess the Numbers Game\bin\Debug\Guess the Numbers Game.pdb
+E:\hwork\Net1\AFGuess the Numbers\Guess the Numbers Game\obj\Debug\Guess the Numbers Game.csprojResolveAssemblyReference.cache
+E:\hwork\Net1\AFGuess the Numbers\Guess the Numbers Game\obj\Debug\Guess_the_Numbers_Game.Form1.resources
+E:\hwork\Net1\AFGuess the Numbers\Guess the Numbers Game\obj\Debug\Guess_the_Numbers_Game.Properties.Resources.resources
+E:\hwork\Net1\AFGuess the Numbers\Guess the Numbers Game\obj\Debug\Guess the Numbers Game.csproj.GenerateResource.Cache
+E:\hwork\Net1\AFGuess the Numbers\Guess the Numbers Game\obj\Debug\Guess the Numbers Game.exe
+E:\hwork\Net1\AFGuess the Numbers\Guess the Numbers Game\obj\Debug\Guess the Numbers Game.pdb

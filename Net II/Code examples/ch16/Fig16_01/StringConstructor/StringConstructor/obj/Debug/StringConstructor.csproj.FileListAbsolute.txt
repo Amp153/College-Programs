@@ -1,0 +1,5 @@
+C:\books\2012\VCSHARP2012HTP\examples\ch16\Fig16_01\StringConstructor\StringConstructor\bin\Debug\StringConstructor.exe
+C:\books\2012\VCSHARP2012HTP\examples\ch16\Fig16_01\StringConstructor\StringConstructor\bin\Debug\StringConstructor.pdb
+C:\books\2012\VCSHARP2012HTP\examples\ch16\Fig16_01\StringConstructor\StringConstructor\obj\Debug\StringConstructor.csprojResolveAssemblyReference.cache
+C:\books\2012\VCSHARP2012HTP\examples\ch16\Fig16_01\StringConstructor\StringConstructor\obj\Debug\StringConstructor.exe
+C:\books\2012\VCSHARP2012HTP\examples\ch16\Fig16_01\StringConstructor\StringConstructor\obj\Debug\StringConstructor.pdb

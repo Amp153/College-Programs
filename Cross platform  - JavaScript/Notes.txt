@@ -1,0 +1,117 @@
+First time setup
+
+install node lts 8.9.4
+
+installed latest git
+-set notepadd++ as default editor
+-added unix tools to windows path
+
+opened command prompt and issued 
+	npm install -g ionic cordova
+
+Register for dashboard account 
+https://dashboard.ionicjs.com/login
+
+git config --global user.name "FirstName LastName"
+
+git config --global user.email "email@address.com"
+
+ionic start MyApp blank
+-creates new application
+-no to android/iOS integration
+-yes to sdk
+-auto generate ssh key
+-login to premium account
+
+cd MyApp
+-have to be in project to run serve
+
+ionic serve
+-starts the application
+
+ionic link
+	-only need if want to deploy app to ionic view app on device
+
+git push ionic master
+	-only need if want to deploy app to ionic view app on device
+
+
+Subsequent
+runs
+ionic start 
+ionic serve
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Reviewed components
+
+Creating a project and components instructions:
+
+/* ionic start <application-name> <template (blank|tabs|menu)> */
+
+ionic start ApplicationName blank
+
+cd ApplicationName
+
+ionic generate component componentNameComponent
+
+ 
+
+inside app.module.ts
+
+  // import ComponentsModule
+
+  import {ComponentsModule} from '../components/components.module';
+
+  @NgModule({
+
+    ...
+
+    imports: [
+
+      BrowserModule,
+
+      IonicModule.forRoot(MyApp),
+
+      // add it to the imports array
+
+      ComponentsModule
+
+    ],
+
+     ...
+
+  })
+
+ 
+
+  in components/components.module
+
+ 
+
+  // import CommonModule
+
+  import { CommonModule } from '@angular/common';
+
+  @NgModule({
+
+    ...
+
+    //add it to imports
+
+    imports: [CommonModule],
+
+    ...
+
+  })
+
+ 
+
+  //After adding components manually re-start server
+
+ 
+
+})
+
+//After adding components manually re-start server

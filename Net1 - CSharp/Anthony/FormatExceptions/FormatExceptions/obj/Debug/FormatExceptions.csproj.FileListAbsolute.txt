@@ -1,0 +1,6 @@
+E:\hwork\Net1\Anthony\FormatExceptions\FormatExceptions\bin\Debug\FormatExceptions.exe.config
+E:\hwork\Net1\Anthony\FormatExceptions\FormatExceptions\bin\Debug\FormatExceptions.exe
+E:\hwork\Net1\Anthony\FormatExceptions\FormatExceptions\bin\Debug\FormatExceptions.pdb
+E:\hwork\Net1\Anthony\FormatExceptions\FormatExceptions\obj\Debug\FormatExceptions.csprojResolveAssemblyReference.cache
+E:\hwork\Net1\Anthony\FormatExceptions\FormatExceptions\obj\Debug\FormatExceptions.exe
+E:\hwork\Net1\Anthony\FormatExceptions\FormatExceptions\obj\Debug\FormatExceptions.pdb

@@ -1,0 +1,9 @@
+UPDATE Student2
+SET firstname = Student1.Fullname
+WHERE FUllname LIKE '% F %';
+
+
+OR
+SELECT Fullname
+FROM Student1
+WHERE FUllname LIKE '% R %';

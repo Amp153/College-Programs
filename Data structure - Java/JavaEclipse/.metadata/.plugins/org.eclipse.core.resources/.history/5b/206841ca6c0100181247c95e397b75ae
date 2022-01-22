@@ -1,0 +1,21 @@
+
+public class Recursion {
+
+	public static void main(String[] args) {
+		System.out.print("first"+first(3));
+		System.out.print("second"+second(3));
+
+	}
+
+	public static double first(int i) {
+		if(i==0)
+			return 0;
+		return i+2+first(i-1);
+	}
+	
+	public static double second(int i) {
+		if(i==0)
+			return 0;
+		return Math.pow(i,2)+1+second(i-1);
+	}
+}

@@ -1,0 +1,10 @@
+c:\users\owner\documents\visual studio 2012\Projects\AFChapter15Program7\AFChapter15Program7\bin\Debug\AFChapter15Program7.exe.config
+c:\users\owner\documents\visual studio 2012\Projects\AFChapter15Program7\AFChapter15Program7\bin\Debug\AFChapter15Program7.exe
+c:\users\owner\documents\visual studio 2012\Projects\AFChapter15Program7\AFChapter15Program7\bin\Debug\AFChapter15Program7.pdb
+c:\users\owner\documents\visual studio 2012\Projects\AFChapter15Program7\AFChapter15Program7\obj\Debug\AFChapter15Program7.csprojResolveAssemblyReference.cache
+c:\users\owner\documents\visual studio 2012\Projects\AFChapter15Program7\AFChapter15Program7\obj\Debug\AFChapter15Program7.MDITextEditor.resources
+c:\users\owner\documents\visual studio 2012\Projects\AFChapter15Program7\AFChapter15Program7\obj\Debug\AFChapter15Program7.Properties.Resources.resources
+c:\users\owner\documents\visual studio 2012\Projects\AFChapter15Program7\AFChapter15Program7\obj\Debug\AFChapter15Program7.TextBoxClass.resources
+c:\users\owner\documents\visual studio 2012\Projects\AFChapter15Program7\AFChapter15Program7\obj\Debug\AFChapter15Program7.csproj.GenerateResource.Cache
+c:\users\owner\documents\visual studio 2012\Projects\AFChapter15Program7\AFChapter15Program7\obj\Debug\AFChapter15Program7.exe
+c:\users\owner\documents\visual studio 2012\Projects\AFChapter15Program7\AFChapter15Program7\obj\Debug\AFChapter15Program7.pdb

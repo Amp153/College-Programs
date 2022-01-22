@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:h="http://xmlns.jcp.org/jsf/html"
+      xmlns:f="http://xmlns.jcp.org/jsf/core">
+    <h:head>
+        <title>Addition Quiz</title>
+    </h:head>
+    <h:body>
+        <h:form>
+            <h:panelGrid columns="2">
+                <h:outputLabel value="#{addition.getQuestion(0)}" />
+                <h:inputText required="true"
+                             requiredMessage ="Must enter an answer for question 1"
+                             validatorMessage="Must be a number between 0 and 100"
+                             value="#{addition.userAnswer[0]}">
+                    <f:validateLongRange minimum="0" maximum="100" />
+                </h:inputText>
+                <h:outputLabel value="#{addition.getQuestion(1)}" />
+                <h:inputText required="true"
+                             requiredMessage ="Must enter an answer for question 2"
+                             validatorMessage="Must be a number between 0 and 100"
+                             value="#{addition.userAnswer[1]}">
+                    <f:validateLongRange minimum="0" maximum="100" />
+                </h:inputText>
+                <h:outputLabel value="#{addition.getQuestion(2)}" />
+                <h:inputText required="true"
+                             requiredMessage ="Must enter an answer for question 3"
+                             validatorMessage="Must be a number between 0 and 100"
+                             value="#{addition.userAnswer[2]}">
+                    <f:validateLongRange minimum="0" maximum="100" />
+                </h:inputText>
+                <h:outputLabel value="#{addition.getQuestion(3)}" />
+                <h:inputText required="true"
+                             requiredMessage ="Must enter an answer for question 4"
+                             validatorMessage="Must be a number between 0 and 100"
+                             value="#{addition.userAnswer[3]}">
+                    <f:validateLongRange minimum="0" maximum="100" />
+                </h:inputText>
+                <h:outputLabel value="#{addition.getQuestion(4)}" />
+                <h:inputText required="true"
+                             requiredMessage ="Must enter an answer for question 5"
+                             validatorMessage="Must be a number between 0 and 100"
+                             value="#{addition.userAnswer[4]}">
+                    <f:validateLongRange minimum="0" maximum="100" />
+                </h:inputText>
+                <h:outputLabel value="#{addition.getQuestion(5)}" />
+                <h:inputText required="true"
+                             requiredMessage ="Must enter an answer for question 6"
+                             validatorMessage="Must be a number between 0 and 100"
+                             value="#{addition.userAnswer[5]}">
+                    <f:validateLongRange minimum="0" maximum="100" />
+                </h:inputText>
+                <h:outputLabel value="#{addition.getQuestion(6)}" />
+                <h:inputText required="true"
+                             requiredMessage ="Must enter an answer for question 7"
+                             validatorMessage="Must be a number between 0 and 100"
+                             value="#{addition.userAnswer[6]}">
+                    <f:validateLongRange minimum="0" maximum="100" />
+                </h:inputText>
+                <h:outputLabel value="#{addition.getQuestion(7)}" />
+                <h:inputText required="true"
+                             requiredMessage ="Must enter an answer for question 8"
+                             validatorMessage="Must be a number between 0 and 100"
+                             value="#{addition.userAnswer[7]}">
+                    <f:validateLongRange minimum="0" maximum="100" />
+                </h:inputText>
+                <h:outputLabel value="#{addition.getQuestion(8)}" />
+                <h:inputText required="true"
+                             requiredMessage ="Must enter an answer for question 9"
+                             validatorMessage="Must be a number between 0 and 100"
+                             value="#{addition.userAnswer[8]}">
+                    <f:validateLongRange minimum="0" maximum="100" />
+                </h:inputText>
+                <h:outputLabel value="#{addition.getQuestion(9)}" />
+                <h:inputText required="true"
+                             requiredMessage ="Must enter an answer for question 10"
+                             validatorMessage="Must be a number between 0 and 100"
+                             value="#{addition.userAnswer[9]}">
+                    <f:validateLongRange minimum="0" maximum="100" />
+                </h:inputText>
+                
+            </h:panelGrid>
+            
+            <h:commandButton value="Submit" action="#{addition.getEval()}" />
+            <h:commandButton value="Generate New Quiz"  
+                             action="#{addition.generateNumbers()}" />
+            <h:outputText style="color: red" value="#{addition.results}" />
+            
+        </h:form>
+    </h:body>
+</html>
+

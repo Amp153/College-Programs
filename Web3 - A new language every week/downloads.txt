@@ -1,0 +1,3 @@
+https://getcomposer.org/download/
+https://laravel.com
+nodejs.com - git clone (boilerplate),npm i,npm start

@@ -1,0 +1,1 @@
+C:\books\2012\VCSHARP2012HTP\examples\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config

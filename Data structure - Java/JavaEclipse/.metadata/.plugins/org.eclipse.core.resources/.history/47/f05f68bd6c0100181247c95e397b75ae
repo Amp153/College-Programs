@@ -1,0 +1,14 @@
+
+public class Recursion {
+
+	public static void main(String[] args) {
+		System.out.print(m(3));
+
+	}
+
+	public static double m(int i) {
+		if(i==0)
+			return 0;
+		return i+2+m(i-1);
+	}
+}

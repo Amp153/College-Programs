@@ -1,0 +1,180 @@
+C:\books\2012\VCSHARP2012HTP\examples\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\WindowsFormsApplication2.exe.config
+C:\books\2012\VCSHARP2012HTP\examples\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\WindowsFormsApplication2.exe
+C:\books\2012\VCSHARP2012HTP\examples\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\WindowsFormsApplication2.pdb
+C:\books\2012\VCSHARP2012HTP\examples\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\Microsoft.Data.Edm.dll
+C:\books\2012\VCSHARP2012HTP\examples\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\Microsoft.Data.OData.dll
+C:\books\2012\VCSHARP2012HTP\examples\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\books\2012\VCSHARP2012HTP\examples\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\books\2012\VCSHARP2012HTP\examples\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\System.Spatial.dll
+C:\books\2012\VCSHARP2012HTP\examples\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\Microsoft.Data.Edm.xml
+C:\books\2012\VCSHARP2012HTP\examples\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\Microsoft.Data.OData.xml
+C:\books\2012\VCSHARP2012HTP\examples\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\books\2012\VCSHARP2012HTP\examples\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\System.Spatial.xml
+C:\books\2012\VCSHARP2012HTP\examples\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\books\2012\VCSHARP2012HTP\examples\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\books\2012\VCSHARP2012HTP\examples\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\books\2012\VCSHARP2012HTP\examples\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\books\2012\VCSHARP2012HTP\examples\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\books\2012\VCSHARP2012HTP\examples\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\books\2012\VCSHARP2012HTP\examples\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\books\2012\VCSHARP2012HTP\examples\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\books\2012\VCSHARP2012HTP\examples\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\books\2012\VCSHARP2012HTP\examples\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\de\Microsoft.Data.OData.resources.dll
+C:\books\2012\VCSHARP2012HTP\examples\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\es\Microsoft.Data.OData.resources.dll
+C:\books\2012\VCSHARP2012HTP\examples\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+C:\books\2012\VCSHARP2012HTP\examples\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\it\Microsoft.Data.OData.resources.dll
+C:\books\2012\VCSHARP2012HTP\examples\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+C:\books\2012\VCSHARP2012HTP\examples\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+C:\books\2012\VCSHARP2012HTP\examples\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+C:\books\2012\VCSHARP2012HTP\examples\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\books\2012\VCSHARP2012HTP\examples\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\books\2012\VCSHARP2012HTP\examples\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\de\System.Spatial.resources.dll
+C:\books\2012\VCSHARP2012HTP\examples\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\es\System.Spatial.resources.dll
+C:\books\2012\VCSHARP2012HTP\examples\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\fr\System.Spatial.resources.dll
+C:\books\2012\VCSHARP2012HTP\examples\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\it\System.Spatial.resources.dll
+C:\books\2012\VCSHARP2012HTP\examples\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\ja\System.Spatial.resources.dll
+C:\books\2012\VCSHARP2012HTP\examples\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\ko\System.Spatial.resources.dll
+C:\books\2012\VCSHARP2012HTP\examples\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\ru\System.Spatial.resources.dll
+C:\books\2012\VCSHARP2012HTP\examples\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\zh-Hans\System.Spatial.resources.dll
+C:\books\2012\VCSHARP2012HTP\examples\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\zh-Hant\System.Spatial.resources.dll
+C:\books\2012\VCSHARP2012HTP\examples\FavoriteTwitterSearches\FavoriteTwitterSearches\obj\Debug\FavoriteTwitterSearches.csprojResolveAssemblyReference.cache
+C:\books\2012\VCSHARP2012HTP\examples\FavoriteTwitterSearches\FavoriteTwitterSearches\obj\Debug\FavoriteTwitterSearches.Properties.Resources.resources
+C:\books\2012\VCSHARP2012HTP\examples\FavoriteTwitterSearches\FavoriteTwitterSearches\obj\Debug\FavoriteTwitterSearches.csproj.GenerateResource.Cache
+C:\books\2012\VCSHARP2012HTP\examples\FavoriteTwitterSearches\FavoriteTwitterSearches\obj\Debug\WindowsFormsApplication2.exe
+C:\books\2012\VCSHARP2012HTP\examples\FavoriteTwitterSearches\FavoriteTwitterSearches\obj\Debug\WindowsFormsApplication2.pdb
+C:\books\2012\VCSHARP2012HTP\examples\FavoriteTwitterSearches\FavoriteTwitterSearches\obj\Debug\FavoriteTwitterSearches.FTSForm.resources
+C:\books\2012\VCSHARP2012HTP\examples\ch31\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\WindowsFormsApplication2.exe.config
+C:\books\2012\VCSHARP2012HTP\examples\ch31\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\WindowsFormsApplication2.exe
+C:\books\2012\VCSHARP2012HTP\examples\ch31\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\WindowsFormsApplication2.pdb
+C:\books\2012\VCSHARP2012HTP\examples\ch31\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\Microsoft.Data.Edm.dll
+C:\books\2012\VCSHARP2012HTP\examples\ch31\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\Microsoft.Data.OData.dll
+C:\books\2012\VCSHARP2012HTP\examples\ch31\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\books\2012\VCSHARP2012HTP\examples\ch31\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\books\2012\VCSHARP2012HTP\examples\ch31\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\System.Spatial.dll
+C:\books\2012\VCSHARP2012HTP\examples\ch31\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\Microsoft.Data.Edm.xml
+C:\books\2012\VCSHARP2012HTP\examples\ch31\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\Microsoft.Data.OData.xml
+C:\books\2012\VCSHARP2012HTP\examples\ch31\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\books\2012\VCSHARP2012HTP\examples\ch31\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\System.Spatial.xml
+C:\books\2012\VCSHARP2012HTP\examples\ch31\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\books\2012\VCSHARP2012HTP\examples\ch31\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\books\2012\VCSHARP2012HTP\examples\ch31\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\books\2012\VCSHARP2012HTP\examples\ch31\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\books\2012\VCSHARP2012HTP\examples\ch31\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\books\2012\VCSHARP2012HTP\examples\ch31\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\books\2012\VCSHARP2012HTP\examples\ch31\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\books\2012\VCSHARP2012HTP\examples\ch31\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\books\2012\VCSHARP2012HTP\examples\ch31\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\books\2012\VCSHARP2012HTP\examples\ch31\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\de\Microsoft.Data.OData.resources.dll
+C:\books\2012\VCSHARP2012HTP\examples\ch31\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\es\Microsoft.Data.OData.resources.dll
+C:\books\2012\VCSHARP2012HTP\examples\ch31\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+C:\books\2012\VCSHARP2012HTP\examples\ch31\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\it\Microsoft.Data.OData.resources.dll
+C:\books\2012\VCSHARP2012HTP\examples\ch31\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+C:\books\2012\VCSHARP2012HTP\examples\ch31\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+C:\books\2012\VCSHARP2012HTP\examples\ch31\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+C:\books\2012\VCSHARP2012HTP\examples\ch31\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\books\2012\VCSHARP2012HTP\examples\ch31\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\books\2012\VCSHARP2012HTP\examples\ch31\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\de\System.Spatial.resources.dll
+C:\books\2012\VCSHARP2012HTP\examples\ch31\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\es\System.Spatial.resources.dll
+C:\books\2012\VCSHARP2012HTP\examples\ch31\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\fr\System.Spatial.resources.dll
+C:\books\2012\VCSHARP2012HTP\examples\ch31\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\it\System.Spatial.resources.dll
+C:\books\2012\VCSHARP2012HTP\examples\ch31\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\ja\System.Spatial.resources.dll
+C:\books\2012\VCSHARP2012HTP\examples\ch31\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\ko\System.Spatial.resources.dll
+C:\books\2012\VCSHARP2012HTP\examples\ch31\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\ru\System.Spatial.resources.dll
+C:\books\2012\VCSHARP2012HTP\examples\ch31\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\zh-Hans\System.Spatial.resources.dll
+C:\books\2012\VCSHARP2012HTP\examples\ch31\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\zh-Hant\System.Spatial.resources.dll
+C:\books\2012\VCSHARP2012HTP\examples\ch31\FavoriteTwitterSearches\FavoriteTwitterSearches\obj\Debug\FavoriteTwitterSearches.csprojResolveAssemblyReference.cache
+C:\books\2012\VCSHARP2012HTP\examples\ch31\FavoriteTwitterSearches\FavoriteTwitterSearches\obj\Debug\FavoriteTwitterSearches.FTSForm.resources
+C:\books\2012\VCSHARP2012HTP\examples\ch31\FavoriteTwitterSearches\FavoriteTwitterSearches\obj\Debug\FavoriteTwitterSearches.Properties.Resources.resources
+C:\books\2012\VCSHARP2012HTP\examples\ch31\FavoriteTwitterSearches\FavoriteTwitterSearches\obj\Debug\FavoriteTwitterSearches.csproj.GenerateResource.Cache
+C:\books\2012\VCSHARP2012HTP\examples\ch31\FavoriteTwitterSearches\FavoriteTwitterSearches\obj\Debug\WindowsFormsApplication2.exe
+C:\books\2012\VCSHARP2012HTP\examples\ch31\FavoriteTwitterSearches\FavoriteTwitterSearches\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\drich\Downloads\ch31 (1)\ch31\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\drich\Downloads\ch31 (1)\ch31\FavoriteTwitterSearches\FavoriteTwitterSearches\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\drich\Downloads\ch31 (1)\ch31\FavoriteTwitterSearches\FavoriteTwitterSearches\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\drich\Downloads\ch31 (1)\ch31\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\drich\Downloads\ch31 (1)\ch31\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\drich\Downloads\ch31 (1)\ch31\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\Microsoft.Data.Edm.dll
+C:\Users\drich\Downloads\ch31 (1)\ch31\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\Microsoft.Data.OData.dll
+C:\Users\drich\Downloads\ch31 (1)\ch31\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\drich\Downloads\ch31 (1)\ch31\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\drich\Downloads\ch31 (1)\ch31\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\System.Spatial.dll
+C:\Users\drich\Downloads\ch31 (1)\ch31\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\Microsoft.Data.Edm.xml
+C:\Users\drich\Downloads\ch31 (1)\ch31\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\Microsoft.Data.OData.xml
+C:\Users\drich\Downloads\ch31 (1)\ch31\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Users\drich\Downloads\ch31 (1)\ch31\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\System.Spatial.xml
+C:\Users\drich\Downloads\ch31 (1)\ch31\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\Users\drich\Downloads\ch31 (1)\ch31\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\Users\drich\Downloads\ch31 (1)\ch31\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\drich\Downloads\ch31 (1)\ch31\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\Users\drich\Downloads\ch31 (1)\ch31\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\drich\Downloads\ch31 (1)\ch31\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\drich\Downloads\ch31 (1)\ch31\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\drich\Downloads\ch31 (1)\ch31\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\drich\Downloads\ch31 (1)\ch31\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\drich\Downloads\ch31 (1)\ch31\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\de\Microsoft.Data.OData.resources.dll
+C:\Users\drich\Downloads\ch31 (1)\ch31\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\es\Microsoft.Data.OData.resources.dll
+C:\Users\drich\Downloads\ch31 (1)\ch31\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+C:\Users\drich\Downloads\ch31 (1)\ch31\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\it\Microsoft.Data.OData.resources.dll
+C:\Users\drich\Downloads\ch31 (1)\ch31\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+C:\Users\drich\Downloads\ch31 (1)\ch31\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+C:\Users\drich\Downloads\ch31 (1)\ch31\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+C:\Users\drich\Downloads\ch31 (1)\ch31\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\drich\Downloads\ch31 (1)\ch31\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\drich\Downloads\ch31 (1)\ch31\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\de\System.Spatial.resources.dll
+C:\Users\drich\Downloads\ch31 (1)\ch31\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\es\System.Spatial.resources.dll
+C:\Users\drich\Downloads\ch31 (1)\ch31\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\fr\System.Spatial.resources.dll
+C:\Users\drich\Downloads\ch31 (1)\ch31\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\it\System.Spatial.resources.dll
+C:\Users\drich\Downloads\ch31 (1)\ch31\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\ja\System.Spatial.resources.dll
+C:\Users\drich\Downloads\ch31 (1)\ch31\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\ko\System.Spatial.resources.dll
+C:\Users\drich\Downloads\ch31 (1)\ch31\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\ru\System.Spatial.resources.dll
+C:\Users\drich\Downloads\ch31 (1)\ch31\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\zh-Hans\System.Spatial.resources.dll
+C:\Users\drich\Downloads\ch31 (1)\ch31\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\zh-Hant\System.Spatial.resources.dll
+C:\Users\drich\Downloads\ch31 (1)\ch31\FavoriteTwitterSearches\FavoriteTwitterSearches\obj\Debug\FavoriteTwitterSearches.csprojResolveAssemblyReference.cache
+C:\Users\drich\Downloads\ch31 (1)\ch31\FavoriteTwitterSearches\FavoriteTwitterSearches\obj\Debug\FavoriteTwitterSearches.FTSForm.resources
+C:\Users\drich\Downloads\ch31 (1)\ch31\FavoriteTwitterSearches\FavoriteTwitterSearches\obj\Debug\FavoriteTwitterSearches.Properties.Resources.resources
+C:\Users\drich\Downloads\ch31 (1)\ch31\FavoriteTwitterSearches\FavoriteTwitterSearches\obj\Debug\FavoriteTwitterSearches.csproj.GenerateResource.Cache
+F:\Semester 3\Net II\CodeReviews\ch31 (1)\ch31\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\WindowsFormsApplication2.exe.config
+F:\Semester 3\Net II\CodeReviews\ch31 (1)\ch31\FavoriteTwitterSearches\FavoriteTwitterSearches\obj\Debug\WindowsFormsApplication2.exe
+F:\Semester 3\Net II\CodeReviews\ch31 (1)\ch31\FavoriteTwitterSearches\FavoriteTwitterSearches\obj\Debug\WindowsFormsApplication2.pdb
+F:\Semester 3\Net II\CodeReviews\ch31 (1)\ch31\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\WindowsFormsApplication2.exe
+F:\Semester 3\Net II\CodeReviews\ch31 (1)\ch31\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\WindowsFormsApplication2.pdb
+F:\Semester 3\Net II\CodeReviews\ch31 (1)\ch31\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\Microsoft.Data.Edm.dll
+F:\Semester 3\Net II\CodeReviews\ch31 (1)\ch31\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\Microsoft.Data.OData.dll
+F:\Semester 3\Net II\CodeReviews\ch31 (1)\ch31\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+F:\Semester 3\Net II\CodeReviews\ch31 (1)\ch31\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+F:\Semester 3\Net II\CodeReviews\ch31 (1)\ch31\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\System.Spatial.dll
+F:\Semester 3\Net II\CodeReviews\ch31 (1)\ch31\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\Microsoft.Data.Edm.xml
+F:\Semester 3\Net II\CodeReviews\ch31 (1)\ch31\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\Microsoft.Data.OData.xml
+F:\Semester 3\Net II\CodeReviews\ch31 (1)\ch31\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+F:\Semester 3\Net II\CodeReviews\ch31 (1)\ch31\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\System.Spatial.xml
+F:\Semester 3\Net II\CodeReviews\ch31 (1)\ch31\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+F:\Semester 3\Net II\CodeReviews\ch31 (1)\ch31\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+F:\Semester 3\Net II\CodeReviews\ch31 (1)\ch31\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+F:\Semester 3\Net II\CodeReviews\ch31 (1)\ch31\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+F:\Semester 3\Net II\CodeReviews\ch31 (1)\ch31\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+F:\Semester 3\Net II\CodeReviews\ch31 (1)\ch31\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+F:\Semester 3\Net II\CodeReviews\ch31 (1)\ch31\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+F:\Semester 3\Net II\CodeReviews\ch31 (1)\ch31\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+F:\Semester 3\Net II\CodeReviews\ch31 (1)\ch31\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+F:\Semester 3\Net II\CodeReviews\ch31 (1)\ch31\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\de\Microsoft.Data.OData.resources.dll
+F:\Semester 3\Net II\CodeReviews\ch31 (1)\ch31\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\es\Microsoft.Data.OData.resources.dll
+F:\Semester 3\Net II\CodeReviews\ch31 (1)\ch31\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+F:\Semester 3\Net II\CodeReviews\ch31 (1)\ch31\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\it\Microsoft.Data.OData.resources.dll
+F:\Semester 3\Net II\CodeReviews\ch31 (1)\ch31\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+F:\Semester 3\Net II\CodeReviews\ch31 (1)\ch31\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+F:\Semester 3\Net II\CodeReviews\ch31 (1)\ch31\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+F:\Semester 3\Net II\CodeReviews\ch31 (1)\ch31\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+F:\Semester 3\Net II\CodeReviews\ch31 (1)\ch31\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+F:\Semester 3\Net II\CodeReviews\ch31 (1)\ch31\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\de\System.Spatial.resources.dll
+F:\Semester 3\Net II\CodeReviews\ch31 (1)\ch31\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\es\System.Spatial.resources.dll
+F:\Semester 3\Net II\CodeReviews\ch31 (1)\ch31\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\fr\System.Spatial.resources.dll
+F:\Semester 3\Net II\CodeReviews\ch31 (1)\ch31\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\it\System.Spatial.resources.dll
+F:\Semester 3\Net II\CodeReviews\ch31 (1)\ch31\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\ja\System.Spatial.resources.dll
+F:\Semester 3\Net II\CodeReviews\ch31 (1)\ch31\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\ko\System.Spatial.resources.dll
+F:\Semester 3\Net II\CodeReviews\ch31 (1)\ch31\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\ru\System.Spatial.resources.dll
+F:\Semester 3\Net II\CodeReviews\ch31 (1)\ch31\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\zh-Hans\System.Spatial.resources.dll
+F:\Semester 3\Net II\CodeReviews\ch31 (1)\ch31\FavoriteTwitterSearches\FavoriteTwitterSearches\bin\Debug\zh-Hant\System.Spatial.resources.dll
+F:\Semester 3\Net II\CodeReviews\ch31 (1)\ch31\FavoriteTwitterSearches\FavoriteTwitterSearches\obj\Debug\FavoriteTwitterSearches.csprojResolveAssemblyReference.cache
+F:\Semester 3\Net II\CodeReviews\ch31 (1)\ch31\FavoriteTwitterSearches\FavoriteTwitterSearches\obj\Debug\FavoriteTwitterSearches.FTSForm.resources
+F:\Semester 3\Net II\CodeReviews\ch31 (1)\ch31\FavoriteTwitterSearches\FavoriteTwitterSearches\obj\Debug\FavoriteTwitterSearches.Properties.Resources.resources
+F:\Semester 3\Net II\CodeReviews\ch31 (1)\ch31\FavoriteTwitterSearches\FavoriteTwitterSearches\obj\Debug\FavoriteTwitterSearches.csproj.GenerateResource.Cache

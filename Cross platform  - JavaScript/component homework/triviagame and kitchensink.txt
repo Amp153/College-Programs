@@ -1,0 +1,1 @@
+for sink read the chapter and get everthing in comments on home.html working properly

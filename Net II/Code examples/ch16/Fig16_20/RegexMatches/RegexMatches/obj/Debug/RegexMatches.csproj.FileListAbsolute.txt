@@ -1,0 +1,4 @@
+C:\books\2012\VCSHARP2012HTP\examples\ch16\Fig16_20\RegexMatches\RegexMatches\bin\Debug\RegexMatches.exe
+C:\books\2012\VCSHARP2012HTP\examples\ch16\Fig16_20\RegexMatches\RegexMatches\bin\Debug\RegexMatches.pdb
+C:\books\2012\VCSHARP2012HTP\examples\ch16\Fig16_20\RegexMatches\RegexMatches\obj\Debug\RegexMatches.exe
+C:\books\2012\VCSHARP2012HTP\examples\ch16\Fig16_20\RegexMatches\RegexMatches\obj\Debug\RegexMatches.pdb

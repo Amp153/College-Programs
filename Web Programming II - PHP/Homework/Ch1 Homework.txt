@@ -1,0 +1,24 @@
+Anthony Fuller
+Web Programming II
+Chapter 1
+
+1. a
+2. b
+3. c & d
+4. a
+5. c
+6. False
+7. a
+8. A data type is the specific category of information that a variable contains
+9. You assign the NULL value to a data type when you want to ensure the variable does not contain any data
+10. a
+11. a
+12. a & b, In non PHP languages C works too
+13. a
+14. d
+15. a
+16. a & b
+17. c
+18. b
+19. b
+20. c

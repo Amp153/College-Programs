@@ -1,0 +1,8 @@
+C:\Users\Student\Documents\Visual Studio 2012\Projects\Anthony\Form1\Form1\bin\Debug\Form1.exe.config
+C:\Users\Student\Documents\Visual Studio 2012\Projects\Anthony\Form1\Form1\obj\Debug\Form1.exe
+C:\Users\Student\Documents\Visual Studio 2012\Projects\Anthony\Form1\Form1\obj\Debug\Form1.pdb
+C:\Users\Student\Documents\Visual Studio 2012\Projects\Anthony\Form1\Form1\bin\Debug\Form1.exe
+C:\Users\Student\Documents\Visual Studio 2012\Projects\Anthony\Form1\Form1\bin\Debug\Form1.pdb
+C:\Users\Student\Documents\Visual Studio 2012\Projects\Anthony\Form1\Form1\obj\Debug\Form1.Form1.resources
+C:\Users\Student\Documents\Visual Studio 2012\Projects\Anthony\Form1\Form1\obj\Debug\Form1.Properties.Resources.resources
+C:\Users\Student\Documents\Visual Studio 2012\Projects\Anthony\Form1\Form1\obj\Debug\FirstProgram.csproj.GenerateResource.Cache

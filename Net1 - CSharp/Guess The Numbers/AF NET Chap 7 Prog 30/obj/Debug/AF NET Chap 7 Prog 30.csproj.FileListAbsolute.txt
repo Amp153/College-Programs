@@ -1,0 +1,12 @@
+c:\users\owner\documents\visual studio 2012\Projects\Guess The Numbers\AF NET Chap 7 Prog 30\bin\Debug\AF NET Chap 7 Prog 30.exe.config
+c:\users\owner\documents\visual studio 2012\Projects\Guess The Numbers\AF NET Chap 7 Prog 30\bin\Debug\AF NET Chap 7 Prog 30.exe
+c:\users\owner\documents\visual studio 2012\Projects\Guess The Numbers\AF NET Chap 7 Prog 30\bin\Debug\AF NET Chap 7 Prog 30.pdb
+c:\users\owner\documents\visual studio 2012\Projects\Guess The Numbers\AF NET Chap 7 Prog 30\obj\Debug\AF NET Chap 7 Prog 30.csprojResolveAssemblyReference.cache
+c:\users\owner\documents\visual studio 2012\Projects\Guess The Numbers\AF NET Chap 7 Prog 30\obj\Debug\AF NET Chap 7 Prog 30.exe
+c:\users\owner\documents\visual studio 2012\Projects\Guess The Numbers\AF NET Chap 7 Prog 30\obj\Debug\AF NET Chap 7 Prog 30.pdb
+E:\hwork\Net1\Guess The Numbers\AF NET Chap 7 Prog 30\bin\Debug\AF NET Chap 7 Prog 30.exe.config
+E:\hwork\Net1\Guess The Numbers\AF NET Chap 7 Prog 30\obj\Debug\AF NET Chap 7 Prog 30.exe
+E:\hwork\Net1\Guess The Numbers\AF NET Chap 7 Prog 30\obj\Debug\AF NET Chap 7 Prog 30.pdb
+E:\hwork\Net1\Guess The Numbers\AF NET Chap 7 Prog 30\bin\Debug\AF NET Chap 7 Prog 30.exe
+E:\hwork\Net1\Guess The Numbers\AF NET Chap 7 Prog 30\bin\Debug\AF NET Chap 7 Prog 30.pdb
+E:\hwork\Net1\Guess The Numbers\AF NET Chap 7 Prog 30\obj\Debug\AF NET Chap 7 Prog 30.csprojResolveAssemblyReference.cache

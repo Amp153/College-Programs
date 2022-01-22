@@ -1,0 +1,22 @@
+have a button to execute the code and another to execute it.
+have a website that explains everything to the user.
+
+
+#Goal
+I want to make a web site that that will check the weather at the usersÅ' location.
+
+#Technology
+My plan is to use Laravel.
+
+#In-scope
+-Get input from the user (their location) and display all the useful information that would be shown to the user from the chosen weather source.
+-Allow the user to register an account that stores their name and password.
+-Create a forum/message board that the user can enter to post, view any posts, leave a comment on a post, and view comments on a post.
+
+#Out of scope
+-This web site should look professional.
+-If the web site is finished weeks before itÅfs due then I must add either another functionality or improve existing code.
+
+
+php artisan serve
+-starts the server

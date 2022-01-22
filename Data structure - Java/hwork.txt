@@ -1,0 +1,15 @@
+java myApp example.json
+
+MyApp.java
+MyApp.class
+example.json
+
+{
+	"hello":"world",
+	"some":"value"
+}
+pop everything into a stack (character at a time)to get the key, after the key sould be :, then string,comma,key,:,string (remember quotes)
+
+if you need help a similar assignment/answer key is on stack but it's with html
+
+reverse polish notation is another example?

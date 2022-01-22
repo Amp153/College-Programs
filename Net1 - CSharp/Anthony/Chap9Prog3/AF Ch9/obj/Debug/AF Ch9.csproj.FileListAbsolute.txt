@@ -1,0 +1,8 @@
+E:\hwork\Net1\Anthony\Chap9Prog3\AF Ch9\bin\Debug\AF Ch9.exe.config
+E:\hwork\Net1\Anthony\Chap9Prog3\AF Ch9\obj\Debug\AF Ch9.csprojResolveAssemblyReference.cache
+F:\hwork\Net1\Anthony\Chap9Prog3\AF Ch9\bin\Debug\AF Ch9.exe.config
+F:\hwork\Net1\Anthony\Chap9Prog3\AF Ch9\bin\Debug\AF Ch9.exe
+F:\hwork\Net1\Anthony\Chap9Prog3\AF Ch9\bin\Debug\AF Ch9.pdb
+F:\hwork\Net1\Anthony\Chap9Prog3\AF Ch9\obj\Debug\AF Ch9.csprojResolveAssemblyReference.cache
+F:\hwork\Net1\Anthony\Chap9Prog3\AF Ch9\obj\Debug\AF Ch9.exe
+F:\hwork\Net1\Anthony\Chap9Prog3\AF Ch9\obj\Debug\AF Ch9.pdb

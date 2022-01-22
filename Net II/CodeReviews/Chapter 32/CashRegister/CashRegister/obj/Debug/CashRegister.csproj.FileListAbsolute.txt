@@ -1,0 +1,26 @@
+F:\New DCTC\Second Semester\Net1\Visual Studio 2012\Projects\CashRegister\CashRegister\bin\Debug\CashRegister.exe.config
+F:\New DCTC\Second Semester\Net1\Visual Studio 2012\Projects\CashRegister\CashRegister\obj\Debug\MainWindow.baml
+F:\New DCTC\Second Semester\Net1\Visual Studio 2012\Projects\CashRegister\CashRegister\obj\Debug\MainWindow.g.cs
+F:\New DCTC\Second Semester\Net1\Visual Studio 2012\Projects\CashRegister\CashRegister\obj\Debug\App.g.cs
+F:\New DCTC\Second Semester\Net1\Visual Studio 2012\Projects\CashRegister\CashRegister\obj\Debug\CashRegister_MarkupCompile.cache
+F:\New DCTC\Second Semester\Net1\Visual Studio 2012\Projects\CashRegister\CashRegister\obj\Debug\CashRegister.g.resources
+F:\New DCTC\Second Semester\Net1\Visual Studio 2012\Projects\CashRegister\CashRegister\obj\Debug\CashRegister.Properties.Resources.resources
+F:\New DCTC\Second Semester\Net1\Visual Studio 2012\Projects\CashRegister\CashRegister\obj\Debug\CashRegister.csproj.GenerateResource.Cache
+F:\New DCTC\Second Semester\Net1\Visual Studio 2012\Projects\CashRegister\CashRegister\bin\Debug\CashRegister.exe
+F:\New DCTC\Second Semester\Net1\Visual Studio 2012\Projects\CashRegister\CashRegister\bin\Debug\CashRegister.pdb
+F:\New DCTC\Second Semester\Net1\Visual Studio 2012\Projects\CashRegister\CashRegister\obj\Debug\CashRegister.exe
+F:\New DCTC\Second Semester\Net1\Visual Studio 2012\Projects\CashRegister\CashRegister\obj\Debug\CashRegister.pdb
+F:\New DCTC\Second Semester\Net1\Visual Studio 2012\Projects\CashRegister\CashRegister\obj\Debug\CashRegister.csprojResolveAssemblyReference.cache
+F:\Semester 3\Net II\CodeReviews\Chapter 32\CashRegister\CashRegister\bin\Debug\CashRegister.exe.config
+F:\Semester 3\Net II\CodeReviews\Chapter 32\CashRegister\CashRegister\obj\Debug\CashRegister.exe
+F:\Semester 3\Net II\CodeReviews\Chapter 32\CashRegister\CashRegister\obj\Debug\CashRegister.pdb
+F:\Semester 3\Net II\CodeReviews\Chapter 32\CashRegister\CashRegister\bin\Debug\CashRegister.exe
+F:\Semester 3\Net II\CodeReviews\Chapter 32\CashRegister\CashRegister\bin\Debug\CashRegister.pdb
+F:\Semester 3\Net II\CodeReviews\Chapter 32\CashRegister\CashRegister\obj\Debug\CashRegister.csprojResolveAssemblyReference.cache
+F:\Semester 3\Net II\CodeReviews\Chapter 32\CashRegister\CashRegister\obj\Debug\MainWindow.baml
+F:\Semester 3\Net II\CodeReviews\Chapter 32\CashRegister\CashRegister\obj\Debug\MainWindow.g.cs
+F:\Semester 3\Net II\CodeReviews\Chapter 32\CashRegister\CashRegister\obj\Debug\App.g.cs
+F:\Semester 3\Net II\CodeReviews\Chapter 32\CashRegister\CashRegister\obj\Debug\CashRegister_MarkupCompile.cache
+F:\Semester 3\Net II\CodeReviews\Chapter 32\CashRegister\CashRegister\obj\Debug\CashRegister.g.resources
+F:\Semester 3\Net II\CodeReviews\Chapter 32\CashRegister\CashRegister\obj\Debug\CashRegister.Properties.Resources.resources
+F:\Semester 3\Net II\CodeReviews\Chapter 32\CashRegister\CashRegister\obj\Debug\CashRegister.csproj.GenerateResource.Cache

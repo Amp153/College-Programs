@@ -1,0 +1,36 @@
+The following code review was looked at by Anthony Fuller.
+
+Solution that was reviewed: ABChap15Prog7
+Coder: Amy Balser
+
+Overall the code works. To fix the problem that you've mentioned in the beginning.
+On the Form look at properties and then you can edit the Text from Form1 to TextEditorMDI
+
+Now the problems that I saw but I think you missed.
+
+You have unnessessary imports:
+	using System.Collections.Generic;
+	using System.ComponentModel;
+	using System.Data;
+	using System.Linq;
+	using System.Text;
+	using System.Threading.Tasks;
+
+Remember to delete imports you don't need after it's coded.
+
+
+You have these in your code but nothing is in them:
+        private void menuToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
+        private void MyMDIForm_Load(object sender, EventArgs e)
+        {
+
+        }
+        private void textColorToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
+
+Delete them, then go to the form, click on the error message to bring you to the designer, and delete the line that has the sgwiggles.

@@ -1,0 +1,6 @@
+C:\Users\Student\Documents\Visual Studio 2012\Projects\Anthony\The tortise and the hair\AF Net Chap 8 Prog 28\bin\Debug\AF Net Chap 8 Prog 28.exe.config
+C:\Users\Student\Documents\Visual Studio 2012\Projects\Anthony\The tortise and the hair\AF Net Chap 8 Prog 28\bin\Debug\AF Net Chap 8 Prog 28.exe
+C:\Users\Student\Documents\Visual Studio 2012\Projects\Anthony\The tortise and the hair\AF Net Chap 8 Prog 28\bin\Debug\AF Net Chap 8 Prog 28.pdb
+C:\Users\Student\Documents\Visual Studio 2012\Projects\Anthony\The tortise and the hair\AF Net Chap 8 Prog 28\obj\Debug\AF Net Chap 8 Prog 28.csprojResolveAssemblyReference.cache
+C:\Users\Student\Documents\Visual Studio 2012\Projects\Anthony\The tortise and the hair\AF Net Chap 8 Prog 28\obj\Debug\AF Net Chap 8 Prog 28.exe
+C:\Users\Student\Documents\Visual Studio 2012\Projects\Anthony\The tortise and the hair\AF Net Chap 8 Prog 28\obj\Debug\AF Net Chap 8 Prog 28.pdb

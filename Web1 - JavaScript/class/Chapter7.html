@@ -1,0 +1,36 @@
+<!-- Anthony Fuller -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>Chapter 7 Form</title>
+	<meta charset="utf-8" />
+</head>
+
+<body>
+	<form action="test.php" method="get">
+		Name: <input type="text" name="name" required="required"/>
+		<p>Email Address: <input type="email" name="email" required="required"/></p>
+		<br />
+		<p>Date of request<input type="date" name="reqDate" required="required"/></p>
+		
+		<fieldset style="width:250px">
+			<legend>Gender</legend>
+			<input type="radio" name="gender" value="Female"/> Female <br />
+			<input type="radio" name="gender" value="Male"/> Male <br />
+			<input type="radio" name="gender" value="Undisclosed" checked="true"/> Undisclosed
+		</fieldset>
+		<p>
+			Select your courses <select name="courses" multiple="multiple">
+				<option value ="none"></option>
+				<option value="wp1">Web Prog 1</option>
+				<option value="wp2">Web Prog 2</option>
+				<option value="wp3">Web Prog 3</option>
+			</select>
+		</p>
+		<p>
+			<input type="submit" value="Submit Info"/> &nbsp; &nbsp; &nbsp; &nbsp; <!-- nothing but space -->
+			<input type="reset" value="Clear Form"/>
+		</p>
+	</form>
+</body>
+</html>

@@ -1,0 +1,9 @@
+E:\hwork\Net1\Anthony\Chapter11\Chapter11\bin\Debug\Chapter11.exe.config
+E:\hwork\Net1\Anthony\Chapter11\Chapter11\bin\Debug\Chapter11.exe
+E:\hwork\Net1\Anthony\Chapter11\Chapter11\bin\Debug\Chapter11.pdb
+E:\hwork\Net1\Anthony\Chapter11\Chapter11\obj\Debug\Chapter11.csprojResolveAssemblyReference.cache
+E:\hwork\Net1\Anthony\Chapter11\Chapter11\obj\Debug\Chapter11.exe
+E:\hwork\Net1\Anthony\Chapter11\Chapter11\obj\Debug\Chapter11.pdb
+F:\hwork\Net1\Anthony\Chapter11\Chapter11\bin\Debug\Chapter11.exe.config
+F:\hwork\Net1\Anthony\Chapter11\Chapter11\obj\Debug\Chapter11.exe
+F:\hwork\Net1\Anthony\Chapter11\Chapter11\obj\Debug\Chapter11.pdb

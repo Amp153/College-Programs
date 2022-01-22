@@ -1,0 +1,13 @@
+
+public class CircleTest {
+
+	public static void main(String[] args) {
+		System.out.print("What is the radius of the circle? ");
+		Circle circle = new Circle(Double.parseDouble(System.in.toString()));
+
+		System.out.print("The circles area is "+ circle.getArea()+
+				"\n The circles diameter is "+ circle.getDiameter()+
+				"\n The circles circumference is " + circle.getCircumference());
+	}
+
+}

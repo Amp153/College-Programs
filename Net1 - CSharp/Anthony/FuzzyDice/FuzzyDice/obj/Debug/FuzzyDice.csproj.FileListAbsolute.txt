@@ -1,0 +1,9 @@
+E:\hwork\Net1\Anthony\FuzzyDice\FuzzyDice\bin\Debug\FuzzyDice.exe.config
+E:\hwork\Net1\Anthony\FuzzyDice\FuzzyDice\bin\Debug\FuzzyDice.exe
+E:\hwork\Net1\Anthony\FuzzyDice\FuzzyDice\bin\Debug\FuzzyDice.pdb
+E:\hwork\Net1\Anthony\FuzzyDice\FuzzyDice\obj\Debug\FuzzyDice.csprojResolveAssemblyReference.cache
+E:\hwork\Net1\Anthony\FuzzyDice\FuzzyDice\obj\Debug\FuzzyDice.Properties.Resources.resources
+E:\hwork\Net1\Anthony\FuzzyDice\FuzzyDice\obj\Debug\FuzzyDice.csproj.GenerateResource.Cache
+E:\hwork\Net1\Anthony\FuzzyDice\FuzzyDice\obj\Debug\FuzzyDice.exe
+E:\hwork\Net1\Anthony\FuzzyDice\FuzzyDice\obj\Debug\FuzzyDice.pdb
+E:\hwork\Net1\Anthony\FuzzyDice\FuzzyDice\obj\Debug\FuzzyDice.FuzzyDice.resources

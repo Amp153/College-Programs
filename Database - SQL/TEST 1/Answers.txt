@@ -1,0 +1,78 @@
+Anthony Fuller
+SQL Test
+
+1.SELECT NAME AS [Male Cats]
+FROM Animal
+WHERE Gender = 'Male' AND
+Category = 'Cat';
+
+2.SELECT Name, Breed, SalePrice
+FROM Animal, SaleAnimal
+WHERE Breed LIKE '*Terrier' AND 
+Animal.AnimalID = SaleAnimal.AnimalID AND
+ SalePrice > 200;
+
+3.SELECT LastName, FirstName 
+FROM Customer
+ORDER BY LastName ASC;
+
+4.SELECT AVG(SalePrice)
+FROM SaleAnimal, Animal
+WHERE Category IN ('Dog', 'Cat') AND
+ Animal.AnimalID = SaleAnimal.AnimalID;
+
+5.UPDATE Employee
+SET Title = 'Animal Friend'
+WHERE EmployeeID = 4;
+
+6.SELECT DISTINCT FirstName, LastName
+FROM Customer, Sale
+WHERE Customer.CustomerID = Sale.CustomerID;
+
+7.SELECT FirstName, LastName, DateHired
+FROM Employee
+WHERE DateHired < #7/1/1998#;
+
+8.SELECT TOP 1 Name, Category, ListPrice 
+FROM Animal
+ORDER BY ListPrice DESC;
+
+9.SELECT FirstName, LastName, Title
+FROM Employee
+WHERE Title = 'Manager';
+
+10.DELETE
+FROM Animal
+WHERE Name = 'Leisha' AND
+Category = 'Cat';
+
+11.SELECT FirstName, LastName, Address
+FROM Customer
+WHERE Address LIKE '*College Street';
+
+12.SELECT Category, COUNT(*) AS [Amount Sold]
+FROM Animal
+GROUP BY Category
+ORDER BY COUNT(*) DESC;
+
+13.SELECT DISTINCT FirstName, LastName, SaleDate
+FROM Customer, Sale, SaleAnimal, Animal
+WHERE Category = 'Dog' AND
+MONTH(SaleDate) = 2 AND
+Customer.CustomerID = Sale.CustomerID AND
+Sale.SaleID = SaleAnimal.SaleID AND
+SaleAnimal.AnimalID = Animal.AnimalID;
+
+14.SELECT Name
+FROM Animal
+WHERE Category = 'Dog' AND
+Registered IS NULL;
+
+15.CREATE TABLE City(
+CityID NUMERIC PRIMARY KEY,
+City TEXT(50) NOT NULL,
+State TEXT(2) NOT NULL
+);
+
+16.INSERT INTO City
+VALUES('6731','Hartford','CT');

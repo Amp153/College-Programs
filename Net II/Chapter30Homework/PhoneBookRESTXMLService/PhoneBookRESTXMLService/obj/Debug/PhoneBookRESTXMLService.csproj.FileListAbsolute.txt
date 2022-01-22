@@ -1,0 +1,14 @@
+C:\books\2012\VCSHARP2012HTP\solutions\sol_ch30\ex30_03\PhoneBookRESTXMLService\PhoneBookRESTXMLService\bin\PhoneBookRESTXMLService.dll
+C:\books\2012\VCSHARP2012HTP\solutions\sol_ch30\ex30_03\PhoneBookRESTXMLService\PhoneBookRESTXMLService\bin\PhoneBookRESTXMLService.pdb
+C:\books\2012\VCSHARP2012HTP\solutions\sol_ch30\ex30_03\PhoneBookRESTXMLService\PhoneBookRESTXMLService\bin\EntityFramework.dll
+C:\books\2012\VCSHARP2012HTP\solutions\sol_ch30\ex30_03\PhoneBookRESTXMLService\PhoneBookRESTXMLService\bin\EntityFramework.xml
+C:\books\2012\VCSHARP2012HTP\solutions\sol_ch30\ex30_03\PhoneBookRESTXMLService\PhoneBookRESTXMLService\obj\Debug\PhoneBookRESTXMLService.csprojResolveAssemblyReference.cache
+C:\books\2012\VCSHARP2012HTP\solutions\sol_ch30\ex30_03\PhoneBookRESTXMLService\PhoneBookRESTXMLService\obj\Debug\PhoneBookRESTXMLService.dll
+C:\books\2012\VCSHARP2012HTP\solutions\sol_ch30\ex30_03\PhoneBookRESTXMLService\PhoneBookRESTXMLService\obj\Debug\PhoneBookRESTXMLService.pdb
+F:\Semester 3\Net II\Chapter30Homework\PhoneBookRESTXMLService\PhoneBookRESTXMLService\bin\PhoneBookRESTXMLService.dll
+F:\Semester 3\Net II\Chapter30Homework\PhoneBookRESTXMLService\PhoneBookRESTXMLService\bin\PhoneBookRESTXMLService.pdb
+F:\Semester 3\Net II\Chapter30Homework\PhoneBookRESTXMLService\PhoneBookRESTXMLService\bin\EntityFramework.dll
+F:\Semester 3\Net II\Chapter30Homework\PhoneBookRESTXMLService\PhoneBookRESTXMLService\bin\EntityFramework.xml
+F:\Semester 3\Net II\Chapter30Homework\PhoneBookRESTXMLService\PhoneBookRESTXMLService\obj\Debug\PhoneBookRESTXMLService.csprojResolveAssemblyReference.cache
+F:\Semester 3\Net II\Chapter30Homework\PhoneBookRESTXMLService\PhoneBookRESTXMLService\obj\Debug\PhoneBookRESTXMLService.dll
+F:\Semester 3\Net II\Chapter30Homework\PhoneBookRESTXMLService\PhoneBookRESTXMLService\obj\Debug\PhoneBookRESTXMLService.pdb

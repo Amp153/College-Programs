@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter22Exercise7", "Chapter22Exercise7\Chapter22Exercise7.csproj", "{B7D7080F-F82E-477B-97F1-6EA3AD8FBC73}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DisplayTable", "DisplayTable\DisplayTable.csproj", "{7A8F492E-F0AC-42C3-86CF-1EDA52662C85}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7D7080F-F82E-477B-97F1-6EA3AD8FBC73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7D7080F-F82E-477B-97F1-6EA3AD8FBC73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7D7080F-F82E-477B-97F1-6EA3AD8FBC73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7D7080F-F82E-477B-97F1-6EA3AD8FBC73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A8F492E-F0AC-42C3-86CF-1EDA52662C85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A8F492E-F0AC-42C3-86CF-1EDA52662C85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A8F492E-F0AC-42C3-86CF-1EDA52662C85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A8F492E-F0AC-42C3-86CF-1EDA52662C85}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

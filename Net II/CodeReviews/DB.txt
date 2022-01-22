@@ -1,0 +1,28 @@
+
+Review of the program without looking at the code:
+First off Texit Editor that misspelling is what the form is called. Also childForm2 is what the child forms are called I'd be fine with that if it didn't say a number. All of the buttons under the File tab work. I can add text to the children but the Window button doesn't show how many child forms there are. Nothing in the Format tab works and the only change I can see is that changing the font changes the size of the windows.
+
+Now for the code:
+Who coded this? All I can tell is that Db has something to do with their name.
+Where are the comments? I only see one.
+You have unnessessary imports:
+	using System.Collections.Generic;
+	using System.ComponentModel;
+	using System.Data;
+	using System.Linq;
+	using System.Text;
+	using System.Threading.Tasks;
+
+Remember to delete imports you don't need after it's coded.
+
+this. ForeColor //this is your code did you notice the space
+
+
+You should be using a richTextBox instead of a label in your child form. Use this to change the size of the font:
+ActiveMdiChild.Controls["richTextBox1"].Font = new Font(ActiveMdiChild.Controls["richTextBox1"].Font.Name, 8);
+
+If you made the previous changes you should use this to change the font:
+ActiveMdiChild.Controls["richTextBox1"].Font = new Font("Times New Roman", ActiveMdiChild.Controls["richTextBox1"].Font.Size);
+
+If you made the previous changes you should use this to change the color:
+ActiveMdiChild.Controls["richTextBox1"].ForeColor = Color.Black;

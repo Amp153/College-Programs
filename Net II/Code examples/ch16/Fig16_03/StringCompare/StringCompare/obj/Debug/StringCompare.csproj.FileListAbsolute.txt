@@ -1,0 +1,4 @@
+C:\books\2012\VCSHARP2012HTP\examples\ch16\Fig16_03\StringCompare\StringCompare\bin\Debug\StringCompare.exe
+C:\books\2012\VCSHARP2012HTP\examples\ch16\Fig16_03\StringCompare\StringCompare\bin\Debug\StringCompare.pdb
+C:\books\2012\VCSHARP2012HTP\examples\ch16\Fig16_03\StringCompare\StringCompare\obj\Debug\StringCompare.exe
+C:\books\2012\VCSHARP2012HTP\examples\ch16\Fig16_03\StringCompare\StringCompare\obj\Debug\StringCompare.pdb

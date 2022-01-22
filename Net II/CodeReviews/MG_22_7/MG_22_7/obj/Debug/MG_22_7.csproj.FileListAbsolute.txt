@@ -1,0 +1,20 @@
+c:\users\matt graiziger\documents\visual studio 2012\Projects\MG_22_7\MG_22_7\bin\Debug\Baseball.mdf
+c:\users\matt graiziger\documents\visual studio 2012\Projects\MG_22_7\MG_22_7\bin\Debug\Baseball_log.ldf
+c:\users\matt graiziger\documents\visual studio 2012\Projects\MG_22_7\MG_22_7\bin\Debug\MG_22_7.dll.config
+c:\users\matt graiziger\documents\visual studio 2012\Projects\MG_22_7\MG_22_7\bin\Debug\MG_22_7.dll
+c:\users\matt graiziger\documents\visual studio 2012\Projects\MG_22_7\MG_22_7\bin\Debug\MG_22_7.pdb
+c:\users\matt graiziger\documents\visual studio 2012\Projects\MG_22_7\MG_22_7\bin\Debug\EntityFramework.dll
+c:\users\matt graiziger\documents\visual studio 2012\Projects\MG_22_7\MG_22_7\bin\Debug\EntityFramework.xml
+c:\users\matt graiziger\documents\visual studio 2012\Projects\MG_22_7\MG_22_7\obj\Debug\MG_22_7.csprojResolveAssemblyReference.cache
+c:\users\matt graiziger\documents\visual studio 2012\Projects\MG_22_7\MG_22_7\obj\Debug\MG_22_7.dll
+c:\users\matt graiziger\documents\visual studio 2012\Projects\MG_22_7\MG_22_7\obj\Debug\MG_22_7.pdb
+F:\Semester 3\Net II\CodeReviews\MG_22_7\MG_22_7\bin\Debug\Baseball.mdf
+F:\Semester 3\Net II\CodeReviews\MG_22_7\MG_22_7\bin\Debug\Baseball_log.ldf
+F:\Semester 3\Net II\CodeReviews\MG_22_7\MG_22_7\bin\Debug\MG_22_7.dll.config
+F:\Semester 3\Net II\CodeReviews\MG_22_7\MG_22_7\bin\Debug\MG_22_7.dll
+F:\Semester 3\Net II\CodeReviews\MG_22_7\MG_22_7\bin\Debug\MG_22_7.pdb
+F:\Semester 3\Net II\CodeReviews\MG_22_7\MG_22_7\bin\Debug\EntityFramework.dll
+F:\Semester 3\Net II\CodeReviews\MG_22_7\MG_22_7\bin\Debug\EntityFramework.xml
+F:\Semester 3\Net II\CodeReviews\MG_22_7\MG_22_7\obj\Debug\MG_22_7.csprojResolveAssemblyReference.cache
+F:\Semester 3\Net II\CodeReviews\MG_22_7\MG_22_7\obj\Debug\MG_22_7.dll
+F:\Semester 3\Net II\CodeReviews\MG_22_7\MG_22_7\obj\Debug\MG_22_7.pdb

@@ -1,0 +1,12 @@
+c:\users\owner\documents\visual studio 2012\Projects\Dice rolling\AF Ch8 Prog17\bin\Debug\AF Ch8 Prog17.exe.config
+c:\users\owner\documents\visual studio 2012\Projects\Dice rolling\AF Ch8 Prog17\bin\Debug\AF Ch8 Prog17.exe
+c:\users\owner\documents\visual studio 2012\Projects\Dice rolling\AF Ch8 Prog17\bin\Debug\AF Ch8 Prog17.pdb
+c:\users\owner\documents\visual studio 2012\Projects\Dice rolling\AF Ch8 Prog17\obj\Debug\AF Ch8 Prog17.csprojResolveAssemblyReference.cache
+c:\users\owner\documents\visual studio 2012\Projects\Dice rolling\AF Ch8 Prog17\obj\Debug\AF Ch8 Prog17.exe
+c:\users\owner\documents\visual studio 2012\Projects\Dice rolling\AF Ch8 Prog17\obj\Debug\AF Ch8 Prog17.pdb
+E:\hwork\Net1\Dice rolling\AF Ch8 Prog17\bin\Debug\AF Ch8 Prog17.exe.config
+E:\hwork\Net1\Dice rolling\AF Ch8 Prog17\obj\Debug\AF Ch8 Prog17.exe
+E:\hwork\Net1\Dice rolling\AF Ch8 Prog17\obj\Debug\AF Ch8 Prog17.pdb
+E:\hwork\Net1\Dice rolling\AF Ch8 Prog17\bin\Debug\AF Ch8 Prog17.exe
+E:\hwork\Net1\Dice rolling\AF Ch8 Prog17\bin\Debug\AF Ch8 Prog17.pdb
+E:\hwork\Net1\Dice rolling\AF Ch8 Prog17\obj\Debug\AF Ch8 Prog17.csprojResolveAssemblyReference.cache

@@ -1,0 +1,621 @@
+SQL Spring 2017 Section 2
+Change scale to add decimal points in design view
+
+create tab, query design (it's in queries), close (new window), click sql
+CREATE-creates database objects
+ALTER-modify the structure/characteristics of database objects
+DROP-Delete database objects
+TRUNCATE-delete table data while keeping structure
+
+CREATE DATABASE name;
+Standard SQL use semi colons at end and use single quotes.
+Standard SQL wildcards are % and _. Microsoft SQL (Access) use * and ?.
+
+Object Designers, Server Compatible Syntax use Default
+
+Integer Numeric(2.5) Date Bool (?Boolean) Text(#) Counter
+
+use CONSTRAINT if useing composite key
+Use REFERENCES with a FOREIGN KEY
+
+CREATE TABLE Owner (
+OwnerID INTEGER PRIMARY KEY,
+OwnerName TEXT(25) NOT NULL,
+OwnerEmail TEXT(35) NOT NULL,
+OwnerType TEXT(15) NOT NULL
+);
+
+CREATE TABLE Owned_Property(
+PropertyID INTEGER PRIMARY KEY,
+PropertyName TEXT(50) NOT NULL,
+PropertyType TEXT(25) NOT NULL,
+Street TEXT(50) NOT NULL,
+City TEXT(25) NOT NULL,
+State TEXT(2) NOT NULL,
+Zip TEXT(10) NOT NULL,
+OwnerID INTEGER NOT NULL,
+CONSTRAINT OPfk FOREIGN KEY(OwnerID) REFERENCES Owner(OwnerID) );
+
+2/6/2017
+CREATE TABLE GG_Service (
+ServiceID COUNTER PRIMARY KEY,
+ServiceDescription TEXT(30) NOT NULL,
+CostPerHour CURRENCY NOT NULL
+);
+
+CREATE Table Employee (
+EmployeeID INTEGER PRIMARY KEY,
+LastName TEXT(25) NOT NULL,
+FirstName TEXT(25) NOT NULL,
+CellPhone TEXT(14) NOT NULL,
+ExperienceLevel TEXT(6) NOT NULL
+);
+
+CREATE TABLE Property_Service (
+PropertyServiceID COUNTER PRIMARY KEY,
+PropertyID INTEGER NOT NULL,
+ServiceID INTEGER NOT NULL,
+Service DATE NOT NULL,
+EmployeeID INTEGER NOT NULL,
+HoursWorked DECIMAL NOT NULL,
+CONSTRAINT propFK FOREIGN KEY(PropertyID) REFERENCES Owned_Property(PropertyID),
+CONSTRAINT serFK FOREIGN KEY(ServiceID) REFERENCES GG_Service(ServiceID),
+CONSTRAINT empFK FOREIGN KEY(EmployeeID) REFERENCES Employee(EmployeeID),
+);
+
+INSERT INTO Owner VALUES(1, 'Mary Jones', 'MaryJones@somewhere.com', 'Individual');
+INSERT INTO Owner VALUES(2, 'DT Enterprises', 'DTE@dte.com', 'Corporation');
+INSERT INTO Owned_Property VALUES(1, 'Eastlake Building', 'Office', '123 Eastlake', 'Seatle',
+   'WA', '98119', 2);
+   INSERT INTO Owned_Property VALUES(2, 'Elm St Apts', 'Apartments', '4 East Elm', 'Lynwood', 'WA', '98223', 1);
+INSERT INTO GG_Service(ServiceDescription, CostPerHour) VALUES('Mow Lawn', 25);
+INSERT INTO GG_Service(ServiceDescription, CostPerHour) VALUES('Plant annuals', 25);
+INSERT INTO Employee VALUES(1, 'Smith', 'Sam', '206-254-1234', 'Master');
+INSERT INTO Employee VALUES(2, 'Evanstone', 'John', '206-254-2345', 'Senior');
+
+
+INSERT INTO Property_Service(PropertyID, ServiceID, EmployeeID, HoursWorked, ServiceDate)
+VALUES(1, 2, 1, 4.5, #2014-5-5#);
+INSERT INTO Property_Service(PropertyID, ServiceID, ServiceDate, EmployeeID, HoursWorked)
+VALUES(2, 2, #May 8 2014#, 2, 2.75);
+
+1. Show me names of customers.
+SELECT FirstName, LastName
+FROM Customer;
+2. Who are the employees
+SELECT FirstName, LastName
+FROM Employee;
+
+SELECT LastName & ',' & FirstName AS [Employee Names]
+FROM Employee;
+3. I need all of the employee data
+SELECT *
+FROM Employee;
+4. What bike model types have they used?
+SELECT DISTINCT ModelType
+FROM Bicycle;
+5. What are the zip codes of their customers?
+SELECT DISTINCT Zipcode
+FROM Customer;
+
+SELECT FirstName, LastName
+FROM Customer
+WHERE ZipCode = '55124';
+
+UPDATE Property_Service
+SET HoursWorked = 4.5
+WHERE PropertyServiceID = 1;
+
+SELECT
+FROM
+WHERE
+ORDER BY
+
+6. Who are the customers from Apple Valley?
+SELECT *
+FROM Customer
+WHERE ZipCode = '55124';
+
+7. Provide a listing of the bikes with a list price more than $4,000.
+SELECT *
+FROM Bicycle
+WHERE ListPrice > 4000;
+
+8. Provide a listing of the bikes with a list price between four and six thousand.
+SELECT *
+FROM Bicycle
+WHERE ListPrice >= 4000 AND ListPrice <= 6000;
+(The shorter way to write it)
+SELECT *
+FROM Bicycle
+WHERE ListPrice BETWEEN 4000 AND 6000;
+
+9. Provide a listing of the road and racing bikes.
+SELECT *
+FROM Bicycle
+WHERE ModelType = 'road' OR ModelType = 'race'
+(The shorter way to write it)
+SELECT *
+FROM Bicycle
+WHERE ModelType IN ('road', 'race');
+
+10. Provide a listing of everything but the road and racing bikes.
+SELECT *
+FROM Bicycle
+WHERE ModelType NOT IN ('road', 'race');
+Alternate
+SELECT *
+FROM Bicycle
+WHERE ModelType <> 'road' AND ModelType <> 'race';
+Alternate
+SELECT *
+FROM Bicycle
+WHERE NOT (ModelType = 'road' OR ModelType = 'race');
+
+11. Which mountain and hybrid bikes sold for more than $5,000?
+SELECT *
+FROM Bicycle
+WHERE ModelType IN ('Mountain', 'Hybrid') AND SalePrice >= 5000;
+
+12.What bikes were ordered on June 1, 1995?
+SELECT *
+FROM Bicycle
+WHERE OrderDate = #6/1/1995#;
+Or
+SELECT *
+FROM Bicycle
+WHERE OrderDate = #June 1, 1995#;
+
+13. What bikes were ordered in 1995?
+SELECT *
+FROM Bicycle
+WHERE OrderDate BETWEEN #1/1/1995# AND #12/31/1995#;
+Or
+SELECT *
+FROM Bicycle
+WHERE YEAR(OrderDate) = 1995;
+Or (if multiple)
+SELECT *
+FROM Bicycle
+WHERE YEAR(OrderDate) IN (1995, 1996);
+
+14. What bikes were ordered on Christmas day?
+SELECT *
+FROM Bicycle
+WHERE MONTH(OrderDate) = 12 AND DAY(OrderDate) = 25;
+
+15. What is the serial numbers of the road bikes shipped after 1998?
+SELECT SerialNumber
+FROM Bicycle
+WHERE YEAR(OrderDate) > 1998 AND ModelType = 'road';
+To test it
+SELECT SerialNumber, ModelType, YEAR(OrderDate)
+FROM Bicycle
+WHERE YEAR(OrderDate) > 1998 AND ModelType = 'road';
+
+16. What years were their employees hired?
+SELECT DISTINCT YEAR(DateHired)
+FROM Employee;
+
+17. What employees are managers?
+SELECT *
+FROM Employee
+WHERE Title LIKE '*Manager*';
+In standard SQL it's
+SELECT *
+FROM Employee
+WHERE Title LIKE '%Manager%';
+
+18. Who are the customers, with a 5-letter first name that startes with a B?
+SELECT FirstName, LastName
+FROM Customer
+WHERE FirstName LIKE 'B????';
+In standard SQL it's
+SELECT FirstName, LastName
+FROM Customer
+WHERE FirstName LIKE 'B____';
+
+19. What employees have not been assigned to a work area?
+SELECT *
+FROM Employee
+WHERE WorkArea IS NULL;
+
+20. What paint colors have been discontinued?
+SELECT ColorName
+FROM Paint
+WHERE DateDiscontinued IS NOT NULL;
+
+21. Provide a listing of the serial numbers, model types and selling price of all bikes sorted by the selling price.
+SELECT SerialNumber, ModelType, SalePrice
+FROM Bicycle
+ORDER BY SalePrice;
+
+22. Provide a listing of the serial numbers, model types and selling price of all bikes sorted by the selling price highest to lowest.
+SELECT SerialNumber, ModelType, SalePrice
+FROM Bicycle
+ORDER BY SalePrice DESC, ModelType;
+if lowest to highest
+SELECT SerialNumber, ModelType, SalePrice
+FROM Bicycle
+ORDER BY SalePrice ASC, ModelType;
+
+23. What is the most expensive bike?
+SELECT TOP 1 SerialNumber, ModelType, SalePrice
+FROM Bicycle
+ORDER BY SalePrice DESC, ModelType;
+For Cheapest
+SELECT TOP 1 SerialNumber, ModelType, SalePrice
+FROM Bicycle
+ORDER BY SalePrice ASC, ModelType;
+Top 5%
+SELECT TOP 5 PERCENT SerialNumber, ModelType, SalePrice
+FROM Bicycle
+ORDER BY SalePrice DESC, ModelType;
+
+*. Who is the customer that has ordered the most bikes?
+SELECT TOP 1 Bicycle.CustomerID, FirstName, LastName, COUNT(*)
+FROM Bicycle, Customer
+WHERE Bicycle.CustomerID = Customer.CustomerID
+GROUP BY Bicycle.CustomerID, FirstName, LastName
+ORDER BY COUNT(*) DESC;
+
+
+2/13/2017
+SUM
+AVG
+MIN
+MAX
+COUNT
+
+24. What is the cost of each bike?
+SELECT SerialNumber, SalePrice + SalesTax + ShipPrice AS Total
+FROM Bicycle;
+
+25. What is the cost of each bike from highest to lowest?
+SELECT SerialNumber, SalePrice + SalesTax + ShipPrice AS Total
+FROM Bicycle
+ORDER BY SalePrice + SalesTax + ShipPrice DESC;
+
+26. What is the total cost for all bikes?
+SELECT SUM(SalePrice + SalesTax + ShipPrice) AS Total
+FROM Bicycle;
+
+27. How many mountain bikes do they have?
+SELECT COUNT(*)
+FROM Bicycle
+WHERE ModelType = 'Mountain';
+
+28. How many bikes were ordered in 2000?
+SELECT COUNT(*)
+FROM Bicycle
+WHERE YEAR(OrderDate) = 2000;
+
+29. How many bikes were ordered in each of the years of operation?
+SELECT YEAR(OrderDate), COUNT(*)
+FROM Bicycle
+GROUP BY YEAR(OrderDate);
+
+30. How many bikes were ordered in each of the years of operation, highest to lowest?
+SELECT YEAR(OrderDate), COUNT(*)
+FROM Bicycle
+GROUP BY YEAR(OrderDate)
+ORDER BY COUNT(*) DESC;
+
+31. How many race bikes were ordered in each of the years?
+SELECT ModelType, YEAR(OrderDate), COUNT(*)
+FROM Bicycle
+WHERE ModelType = 'Race'
+GROUP BY YEAR(OrderDate), ModelType
+ORDER BY COUNT(*) DESC;
+
+32. What bikes sold for more than the average?
+SELECT SerialNumber, SalePrice
+FROM Bicycle
+WHERE SalePrice > (SELECT AVG(SalePrice)
+                                   FROM Bicycle)
+ORDER BY SalePrice;
+
+33. What's the most expensive bike?
+SELECT SerialNumber, ModelType, SalePrice
+FROM Bicycle
+WHERE SalePrice = (SELECT MAX(SalePrice)
+                                   FROM Bicycle)
+ORDER BY SalePrice DESC, ModelType;
+
+34. How many customers owe them money?
+SELECT COUNT(*)
+FROM Customer
+WHERE BalanceDue < 0;
+
+35. And by how much?
+SELECT COUNT(*), SUM(BalanceDue)
+FROM Customer
+WHERE BalanceDue < 0;
+
+36. What's the average salary for their employees?
+SELECT AVG(Salary)
+FROM Employee;
+
+37. What is the average salary for each type of employee?
+SELECT Title, AVG(Salary)
+FROM Employee
+GROUP BY Title;
+
+38. Exclude the CEO
+SELECT Title, AVG(Salary)
+FROM Employee
+WHERE Title <> 'Chief Executive Officer'
+GROUP BY Title;
+
+39. Show the average salary for any type of employee that is below $30,000.
+SELECT Title, AVG(Salary)
+FROM Employee
+GROUP BY Title
+HAVING AVG(Salary) < 30000;
+
+40. What stores are in Minnesota?
+SELECT StoreName, City, State
+FROM RetailStore, City
+WHERE State = 'MN' AND City.CityID = RetailStore.CityID;
+OR
+SELECT StoreName, City, State
+FROM RetailStore INNER JOIN City ON City.CityID = RetailStore.CityID
+WHERE State = 'MN';
+If nested query
+SELECT StoreName
+FROM RetailStore 
+WHERE CityID IN (SELECT CityID
+                                FROM City
+                                WHERE State = 'MN');
+
+3 ways to connect
+1.nested query-only good if looking at table
+2.where-standard
+3.from-looks bad for more than 2 or 3
+
+
+2/15/2017
+
+41. What bikes have been sold by Sixto Ballen?
+SELECT SerialNumber
+FROM Bicycle, Employee
+WHERE FirstName = 'Sixto' AND LastName = 'Ballen' AND
+     Bicycle.EmployeeID = Employee.EmployeeID;
+OR
+SELECT SerialNumber
+FROM Bicycle INNER JOIN Employee ON Bicycle.EmployeeID = Employee.EmployeeID
+WHERE FirstName = 'Sixto' AND LastName = 'Ballen';
+OR
+SELECT SerialNumber, FirstName
+FROM Bicycle INNER JOIN Employee ON Bicycle.EmployeeID = Employee.EmployeeID
+WHERE FirstName = 'Sixto' AND LastName = 'Ballen';
+
+ALTERNATE for subquery/nested query
+SELECT SerialNumber
+FROM Bicycle 
+WHERE EmployeeID IN (
+     SELECT EmployeeID
+     FROM Employee
+     WHERE FirstName = 'Sixto' AND LastName = 'Ballen');
+
+42. And who did he sell those bikes to?
+SELECT  DISTINCT FirstName, LastName
+FROM Customer
+WHERE CustomerID IN(
+     SELECT CustomerID
+     FROM Bicycle 
+     WHERE EmployeeID IN (
+          SELECT EmployeeID
+          FROM Employee
+          WHERE FirstName = 'Sixto' AND LastName = 'Ballen'));
+OR
+SELECT  DISTINCT Customer.FirstName, Customer.LastName
+FROM (Customer INNER JOIN Bicycle ON Customer.CustomerID = Bicycle.CustomerID) INNER JOIN
+     Employee ON Bicycle.EmployeeID = Employee.EmployeeID
+WHERE Employee.FirstName = 'Sixto' AND Employee.LastName = 'Ballen';
+OR
+SELECT  DISTINCT C.FirstName, C.LastName
+FROM (Customer AS C INNER JOIN Bicycle ON C.CustomerID = Bicycle.CustomerID) INNER JOIN
+     Employee ON Bicycle.EmployeeID = Employee.EmployeeID
+WHERE Employee.FirstName = 'Sixto' AND Employee.LastName = 'Ballen';
+OR
+SELECT  DISTINCT C.FirstName, C.LastName
+FROM (Customer AS C INNER JOIN Bicycle ON C.CustomerID = Bicycle.CustomerID) INNER JOIN
+     Employee AS E ON Bicycle.EmployeeID = E.EmployeeID
+WHERE E.FirstName = 'Sixto' AND E.LastName = 'Ballen';
+OR
+SELECT  DISTINCT C.FirstName, C.LastName
+FROM Customer AS C, Bicycle, Employee AS E
+WHERE E.FirstName = 'Sixto' AND E.LastName = 'Ballen' AND
+     C.CustomerID = Bicycle.CustomerID AND
+     Bicycle.EmployeeID = E.EmployeeID;
+
+43. Who are the manufacturers of the parts used on the road bikes?
+SELECT DISTINCT ManufacturerName
+FROM Manufacturer AS M, BikeParts, Component, Bicycle
+WHERE ModelType = 'Road' AND
+     M.ManufacturerID = Component.ManufacturerID AND
+     Component.ComponentID = BikeParts.ComponentID AND
+     BikeParts.SerialNumber = Bicycle.SerialNumber;
+OR
+SELECT DISTINCT ManufacturerName
+FROM ((Manufacturer AS M INNER JOIN Component AS C ON M.ManufacturerID = C.ManufacturerID) 
+     INNER JOIN BikeParts ON  C.ComponentID = BikeParts.ComponentID)
+     INNER JOIN Bicycle ON BikeParts.SerialNumber = Bicycle.SerialNumber
+WHERE ModelType = 'Road';
+OR
+SELECT DISTINCT ManufacturerName
+FROM Manufacturer
+WHERE ManufacturerID IN(
+     SELECT  ManufacturerID
+     FROM Component
+     WHERE ComponentID IN (
+          SELECT ComponentID
+           FROM BikeParts
+          WHERE SerialNumber IN (
+               SELECT SerialNumber
+               FROM Bicycle
+               WHERE ModelType = 'Road')));
+
+44. Provide a listing of the stores, cities and states.
+SELECT StoreName, City, State
+FROM RetailStore INNER JOIN City ON RetailStore.CityID = City.CityID;
+OR show the city even if there is no store
+SELECT StoreName, City, State
+FROM RetailStore RIGHT JOIN City ON RetailStore.CityID = City.CityID;
+OR show the store even if there is no city
+SELECT StoreName, City, State
+FROM RetailStore LEFT JOIN City ON RetailStore.CityID = City.CityID;
+
+45.Which cities don't have stores?
+SELECT City, State
+FROM RetailStore RIGHT JOIN City ON RetailStore.CityID = City.CityID
+WHERE StoreName IS NULL;
+
+DO NOT USE THIS QUERY
+SELECT City, State
+FROM City
+WHERE CityID NOT IN (
+     SELECT CityID
+     FROM RetailStore);
+
+46. How often has each paint color been used?
+SELECT ColorName, COUNT(*)
+FROM Bicycle, Paint
+WHERE Bicycle.PaintID = Paint.PaintID
+GROUP BY ColorName
+ORDER BY COUNT(*);
+
+2/22/2017
+
+Structure
+-CREATE TABLE
+-DROP TABLE
+-ALTER TABLE
+
+Data
+-INSERT
+-DELETE
+-UPDATE
+
+47. Add a new School District field to the City table.
+ALTER TABLE City
+ADD Column SchoolDistrict TEXT(10) NOT NULL;
+NOT NULL isn't required
+To remove it
+ALTER TABLE City
+DROP Column SchoolDistrict;
+Modifying other stuff
+ALTER TABLE City
+ALTER Column SchoolDistrict TEXT(25);
+
+28. Drop a table
+Remove table if referential integety is not enforced
+DROP TABLE StateTaxRate;
+
+49. Remove the TTT manufacturer
+DELETE
+FROM Manufacturer
+WHERE ManufacturerName = 'TTT';
+
+50. John Green is awsome. His salary should now be $100,000.
+UPDATE Employee
+SET Salary = 100000
+WHERE FirstName = 'John' AND LastName = 'Green';
+Something else
+UPDATE City
+SET SchoolDistrict = '196'
+WHERE City = 'Rosemount' AND State = 'MN';
+
+51. Raise price of bikes by 25%
+UPDATE Bicycle
+SET ListPrice = ListPrice * 1.25;
+
+Practice
+1. SELECT Name, DateBorn
+FROM Animal
+WHERE MONTH(DateBorn) = 2;
+
+2.SELECT Name
+FROM Animal
+WHERE Category = 'Dog' AND Registered IS NULL;
+
+3.SELECT TOP 1 Name
+FROM Animal, SaleAnimal
+WHERE Category = 'Dog' AND
+ Registered IS NULL AND
+Animal.AnimalID = SaleAnimal.AnimalID
+ORDER BY SalePrice DESC;
+
+4.SELECT Registered, AVG(SalePrice)
+FROM SaleAnimal, Animal
+WHERE Category = 'Dog' AND
+ Animal.AnimalID = SaleAnimal.AnimalID
+GROUP BY Registered;
+
+5.SELECT SUM(SalePrice) AS Price, SaleID
+FROM SaleAnimal
+GROUP BY SaleID;
+
+6.SELECT FirstName, LastName
+FROM Customer, Sale, SaleAnimal, Animal
+WHERE Customer.CustomerID = Sale.CustomerID AND 
+Sale.SaleID = SaleAnimal.SaleID AND 
+SaleAnimal.AnimalID = Animal.AnimalID AND 
+Breed ='Cocker Spaniel';
+OR
+SELECT FirstName, LastName
+FROM ((Customer INNER JOIN Sale ON Customer.CustomerID = Sale.CustomerID) INNER JOIN SaleAnimal ON Sale.SaleID = SaleAnimal.SaleID) INNER JOIN Animal ON SaleAnimal.AnimalID = Animal.AnimalID
+WHERE Breed ='Cocker Spaniel';
+
+7.SELECT Breed, COUNT(*) AS Total
+FROM Animal
+WHERE Category = 'Dog'
+GROUP BY Breed
+ORDER BY COUNT(*) DESC;
+
+8.UPDATE Animal
+SET ListPrice = ListPrice +10
+WHERE Category = 'Mammal' AND Breed = 'Ferret';
+
+9.DELETE
+FROM Animal
+WHERE Category = 'Spider';
+
+10.SELECT Name, Breed
+FROM Animal, SaleAnimal
+WHERE Animal.AnimalID = SaleAnimal.AnimalID AND
+SalePrice > 200 AND
+ Breed LIKE '*Terrier*';
+
+11.SELECT FirstName, LastName, DateHired
+FROM Employee
+ORDER BY LastName DESC;
+
+12.SELECT DISTINCT FirstName, LastName
+FROM Customer, Sale, SaleAnimal, Animal
+WHERE Customer.CustomerID = Sale.CustomerID AND 
+Sale.SaleID = SaleAnimal.SaleID AND 
+SaleAnimal.AnimalID = Animal.AnimalID AND 
+Category = 'Dog' AND 
+MONTH(SaleDate) = 2;
+
+13.SELECT DISTINCT Name, ListPrice
+FROM Animal
+WHERE ListPrice > 100 AND
+ Category = 'Cat'
+ORDER BY ListPrice DESC;
+
+14.SELECT Name, AnimalID
+FROM Animal
+WHERE Animal.AnimalID NOT IN(
+SELECT AnimalID
+FROM SaleAnimal);
+
+15.SELECT COUNT(*) AS Nameless
+FROM Animal
+WHERE Name IS NULL;
+
+16.UPDATE Employee
+SET DateReleased = #3/1/2016#
+WHERE FirstName = 'Bill' AND LastName = 'Gibson';

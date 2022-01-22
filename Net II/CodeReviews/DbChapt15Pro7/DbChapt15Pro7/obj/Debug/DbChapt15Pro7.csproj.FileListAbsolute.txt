@@ -1,0 +1,20 @@
+C:\Users\DEMITU\Desktop\NET\DbChapt15Pro7\DbChapt15Pro7\bin\Debug\DbChapt15Pro7.exe.config
+C:\Users\DEMITU\Desktop\NET\DbChapt15Pro7\DbChapt15Pro7\bin\Debug\DbChapt15Pro7.exe
+C:\Users\DEMITU\Desktop\NET\DbChapt15Pro7\DbChapt15Pro7\bin\Debug\DbChapt15Pro7.pdb
+C:\Users\DEMITU\Desktop\NET\DbChapt15Pro7\DbChapt15Pro7\obj\Debug\DbChapt15Pro7.Form1.resources
+C:\Users\DEMITU\Desktop\NET\DbChapt15Pro7\DbChapt15Pro7\obj\Debug\DbChapt15Pro7.Properties.Resources.resources
+C:\Users\DEMITU\Desktop\NET\DbChapt15Pro7\DbChapt15Pro7\obj\Debug\DbChapt15Pro7.csproj.GenerateResource.Cache
+C:\Users\DEMITU\Desktop\NET\DbChapt15Pro7\DbChapt15Pro7\obj\Debug\DbChapt15Pro7.exe
+C:\Users\DEMITU\Desktop\NET\DbChapt15Pro7\DbChapt15Pro7\obj\Debug\DbChapt15Pro7.pdb
+C:\Users\DEMITU\Desktop\NET\DbChapt15Pro7\DbChapt15Pro7\obj\Debug\DbChapt15Pro7.childForm2.resources
+C:\Users\DEMITU\Desktop\NET\DbChapt15Pro7\DbChapt15Pro7\obj\Debug\DbChapt15Pro7.csprojResolveAssemblyReference.cache
+F:\Semester 3\Net II\CodeReviews\DbChapt15Pro7\DbChapt15Pro7\bin\Debug\DbChapt15Pro7.exe.config
+F:\Semester 3\Net II\CodeReviews\DbChapt15Pro7\DbChapt15Pro7\obj\Debug\DbChapt15Pro7.exe
+F:\Semester 3\Net II\CodeReviews\DbChapt15Pro7\DbChapt15Pro7\obj\Debug\DbChapt15Pro7.pdb
+F:\Semester 3\Net II\CodeReviews\DbChapt15Pro7\DbChapt15Pro7\bin\Debug\DbChapt15Pro7.exe
+F:\Semester 3\Net II\CodeReviews\DbChapt15Pro7\DbChapt15Pro7\bin\Debug\DbChapt15Pro7.pdb
+F:\Semester 3\Net II\CodeReviews\DbChapt15Pro7\DbChapt15Pro7\obj\Debug\DbChapt15Pro7.csprojResolveAssemblyReference.cache
+F:\Semester 3\Net II\CodeReviews\DbChapt15Pro7\DbChapt15Pro7\obj\Debug\DbChapt15Pro7.childForm2.resources
+F:\Semester 3\Net II\CodeReviews\DbChapt15Pro7\DbChapt15Pro7\obj\Debug\DbChapt15Pro7.Form1.resources
+F:\Semester 3\Net II\CodeReviews\DbChapt15Pro7\DbChapt15Pro7\obj\Debug\DbChapt15Pro7.Properties.Resources.resources
+F:\Semester 3\Net II\CodeReviews\DbChapt15Pro7\DbChapt15Pro7\obj\Debug\DbChapt15Pro7.csproj.GenerateResource.Cache

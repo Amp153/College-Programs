@@ -1,0 +1,10 @@
+C:\Users\Owner\Documents\Visual Studio 2012\Projects\Chapter22Exercise7\Chapter22Exercise7\bin\Debug\Baseball.mdf
+C:\Users\Owner\Documents\Visual Studio 2012\Projects\Chapter22Exercise7\Chapter22Exercise7\bin\Debug\Baseball_log.ldf
+C:\Users\Owner\Documents\Visual Studio 2012\Projects\Chapter22Exercise7\Chapter22Exercise7\bin\Debug\Chapter22Exercise7.dll.config
+C:\Users\Owner\Documents\Visual Studio 2012\Projects\Chapter22Exercise7\Chapter22Exercise7\bin\Debug\Chapter22Exercise7.dll
+C:\Users\Owner\Documents\Visual Studio 2012\Projects\Chapter22Exercise7\Chapter22Exercise7\bin\Debug\Chapter22Exercise7.pdb
+C:\Users\Owner\Documents\Visual Studio 2012\Projects\Chapter22Exercise7\Chapter22Exercise7\bin\Debug\EntityFramework.dll
+C:\Users\Owner\Documents\Visual Studio 2012\Projects\Chapter22Exercise7\Chapter22Exercise7\bin\Debug\EntityFramework.xml
+C:\Users\Owner\Documents\Visual Studio 2012\Projects\Chapter22Exercise7\Chapter22Exercise7\obj\Debug\Chapter22Exercise7.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Documents\Visual Studio 2012\Projects\Chapter22Exercise7\Chapter22Exercise7\obj\Debug\Chapter22Exercise7.dll
+C:\Users\Owner\Documents\Visual Studio 2012\Projects\Chapter22Exercise7\Chapter22Exercise7\obj\Debug\Chapter22Exercise7.pdb

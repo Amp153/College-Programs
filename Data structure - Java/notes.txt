@@ -1,0 +1,226 @@
+set: non-dub objects in a collection (students in a classroom)
+list: ordered collection of objects (order persists) (grocery list)
+stack: last in first out (buffet plate stack)
+queue: first in first out (bathroom line)
+priority queue: queue with priority (highway people merging)
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+No answer length minimum, but your response should sufficiently answer the question. 
+All answers should be in your own words and your understanding of the question.
+Include all resources used(link to sites, lecture notes, book). 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+I'm using my notes from the lecture
+
+set-
+A collection that accepts only unique objects
+
+list-
+A collection that keeps it's objects in a order
+
+stack-
+A container of objects using Last in First out
+
+queue-
+A set of objects using First in First out
+
+priority queue-
+queue but some objects will have a higher priority
+
+
+model a class roster?
+
+A set, order doesn't matter and each student is unique
+
+
+paradigmatic Venn Diagrams?
+
+A list, lists can be organized and compared to each other easily
+
+
+model grocery shelf stock?
+
+A list, I was trying to keep it varied but for keeping track of any objects a list is the way to go 
+
+
+archetypal a phone book?
+
+A set, order doesn't matter and each number is unique
+
+
+model clothing shelf stock?
+
+Another list, as stated before, keeping track of any objects a list is the best 
+
+
+build a version control system?
+
+A list, order sounds like it'd be important for one
+
+
+build a lottery system?
+
+A list, easy to randomize and several people can win at the same time
+
+
+For each of the data structures above give 3 examples of systems that you could build/model with the given data structure and why you chose that data structure.
+
+set-
+1.Employees in a restaurant, order doesn't matter and each one is unique
+2.Clouds in the sky, order doesn't matter and each one is unique
+3.Patients in a hospital, order doesn't matter and each one is unique
+
+list-
+1.Ikea furniture, everything is labeled for easy assembly
+2.A large fake christmas tree, each branch need to be put on the correct color coded level
+3.List containing instructions, each instruction is labeled in order
+
+stack-
+1.A can of pringles, you must remove the ones on top to reach in further and if you change your mind you can put them in the same way
+2.Batteries in a flashlight, you must unscrew the back and remove the batteries one by one (one battery is blocking the one further in).
+3.A case that has many blank cds, a case that is specialised to hold cds in it requires you to remove the one on top before you can access the next one.
+
+queue-
+1.A program having several tasks to do but threading isn't enabled, the program might even look like it's not responsive while it's waiting for the task to complete
+2.Drive through line, the first car to enter is going to be the first car to leave and the cycle continues for the rest of the cars
+3.Uploading files to a website(like d2l), you have to send the files over the internet (first in) to the server (first out)
+
+priority queue-
+queue but some objects will have a higher priority
+1.A fast food restaurant, we do the orders in the order they are placed but if everything is ready for only one(drive though or front counter) the drive through takes priority
+2.Downloading multiple files, the first files will tend to be the fastest but other files might randomly speed up
+3.Entering a movie at a movie theater, people walk at their own pace and the ones in first might be slower then the person behind them
+
+
+
+Big O notation = used for time and space complexity analysis
+time = how long it takes to run an algorithm
+space = how much memory it takes to run an algorithm
+pointer math = start address + index * data type size
+starts at 0 hence the O
+less time = increase in # of elements (2^n is bad want 1, log n, n, even n^2 is better)
+doesn't matter with small amounts of data
+
+Sorts (worst case)
+Insertion n^2 (first element in array compared to next element 5,2,1,3 5 2,5 1,2,5 1,2,3,5 )
+Bubble n^2 (don't use really basic and easy to implement)(go thru array once swapping higher with lower number, repeat till done 3142 1324 1234)
+Merge n log n (best) (java.util.collections.sort())(split the data in halves and compare the halves)
+BOGO random unbounded n+1! deterministic (worst)(randomly suffles then checks if correct)
+Quick n^2 (pick a random one and compare the rest and again)
+Heap n log n (best)(Separate data into groups,compare an element with end of each group)
+
+
+tree
+-collection of nodes connected by edges
+Node
+-holds a value
+-holds a reference to other nodes(edge)
+edge
+-references in a node
+-object that has weight
+tree data structures
+-trees that have rules
+binary tree
+-root node
+-each node has at most two children
+binary search tree
+-binary tree
+-each node has a value
+-left node < node value
+-right node > node value
+imaginary binary search tree
+		50
+	25		75
+1	30			90	-depth 2
+			60		100	-height 3 (I think)
+leaf
+-node that has no children
+depth of a node
+-number of edges between (it)node and the root node
+height of a node
+-#edges node + furthest leaf
+nodes linked together with only 1 children are a linked list
+
+BST traversal
+Breath-first (queue)
+-Levelordered (pushes everything into a queue)
+Depth-first (does all of the checks on every leaf) (recursion)
+-pre-order (root left right)
+-in-order (left root right)
+-post-order (left right root)
+Huffman coding algorithm
+-ASCII - every character encoded in 8 bits
+Mississippi
+char freq
+M	1	000				1
+p	2	001			0		i1
+s	4	01		0		s1
+i	4	1	m0		p1
+000101011010110010011 ->21bits down from the 80bits it originally was ->laussless compression(lose no info)
+
+
+hash -> maps a key to a number
+perfect hash -> each key produces a unique number
+hash collision -> two somethings produce the same number
+
+java.lang.Object.hashCode -> default returns address of object
+Rules of overrideing hash code
+1.always override hash code when overriding equals
+2.for a given runtime,hashing something should return the same key
+3.two unequal objects can have the same hash code
+
+i=hash(key)
+0-key-value - collision would be at the same place
+1-key-value
+2-key-value
+3-key-value
+
+Strategies for hashing primitives
+int hashCode() -returns int (all of them fit into an int)
+(int) boolean[ ]
+(int) byte[   ]
+(int) short[    ]
+(int) char[      ]
+(int) int[        ]
+for a long fold it in half and turn it into a xor (I think the adding the totals = fixes it (int)(L^L>>32))
+Float.floatToIntBits()
+long n = Double.doubleToLongBits() -> (int)(n^n>>32)
+
+Strategies for hashing Strings
+add char[] together to get a hash(not a good one)
+polynomial hash function (takes position into account)
+
+compress hash codes (tends to cluster in the same areas)
+hashcode = hashcode % N (N = total size of table)
+if N is a power of 2 -> hashcode = hashcode & (N - 1) (faster then +,*, etc all of those operators)
+supplementalHash(int h){h^=(h>>>20)^(h^>>>12) return h^(h>>>7)^(h>>>4)} (fixes the clustering)
+
+hash collision management
+Linear probing - check the key after checking the value then move on if it's different
+0-32-0	-value is hash value
+1-47-0
+2-key-value
+3-key-value
+Quadratic probing -> same as linear but jumps j^2
+double hashing -> if there is a collision hash it again and add it to the hash value
+Chaining scheme (store the collision to a linked list)
+Load factor Lamda=n/N (try to get 75%)
+Embedded systems
+design patterns
+
+Graphs
+verticies
+edges
+String[] vertices = {"Seattle", "San Fran", etc...} //combine with others to get a map
+int[][] edges = {{0,13},{0,3}, {0,5},{1,0}, etc...}
+(another way)int[][] adjacencyMatrix{
+0 is not connected and 1 is connected (to a point on a graph)
+//0{0,1,0,1,0,1,0,0,0,0},//seattle
+//1{1,0,1,1,0,0,0,0,0},//San Fran}
+(another) int[][] adjacencyList{{1,3,5}{0,2,3}} (The number corresponse to the node it's connected to)
+
+Prims minimum spanning tree algorithm -start with a point then go the direction with the shortest distance(absorbs that area)
+breth first (?start at the bottom/top of a tree)
+depth first (?start at the bottom/top of a tree)
+dijkstra's -shortest path

@@ -1,0 +1,58 @@
+github.com
+contribute to others projects to help with resume
+angular
+
+repository
+web3finalproject
+
+create new topic in - github account link (in discussions)
+
+git-scm.com
+
+git init to create a new repository
+make sure you're in the folder MyJSProject
+git config --global user.email "amp153@yahoo.com"
+git config --global user.name "Anthony Fuller"
+
+git status
+git log
+git commit
+git checkout <commit id>
+ls
+
+git add file.txt
+git add -all
+git commit -m "this is a message"
+using visual studio code
+
+//you can use any repository
+git remote add origin https://github.com/Amp153/web3finalproject.git
+git push -u origin master //pull to get from repo but don't include -u
+
+//not covered but free to usegit
+branch
+merge
+
+git clone url from github //to download repository
+
+//mv foldername newfoldername -rename
+//file called .gitignore (source code)
+.gitignore CompiledStuff/** //ignore source code you don't want to track but needs to be tracked
+//gitignore.io will generate them easily
+git log master
+git log > loghistory.log //log in readable document (will overwright unless >>)
+add to the ignore file if it's in the repository
+
+//fork coppyies the file and makes you the owner of said coppy
+//readme.md looks better
+
+
+use server side validation , client can be bypassed
+expects 40 hrs week , don't make it thinking about future capatibility, it should be what you want to make
+Use laravel, probrably easier
+The final project must be something to show a employer
+getbootstrap.com has premade css and a preview of them
+getmdi has android looking css
+material.angular has more android css
+
+php artisan serve to run the server

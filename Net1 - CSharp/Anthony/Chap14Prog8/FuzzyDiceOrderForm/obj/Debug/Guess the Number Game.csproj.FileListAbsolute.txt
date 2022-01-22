@@ -1,0 +1,11 @@
+E:\hwork\Net1\Anthony\FuzzyDiceOrderForm\FuzzyDiceOrderForm\bin\Debug\FuzzyDiceOrderForm.exe.config
+E:\hwork\Net1\Anthony\FuzzyDiceOrderForm\FuzzyDiceOrderForm\obj\Debug\FuzzyDiceOrderForm.exe
+E:\hwork\Net1\Anthony\FuzzyDiceOrderForm\FuzzyDiceOrderForm\obj\Debug\FuzzyDiceOrderForm.pdb
+E:\hwork\Net1\Anthony\Chap14Prog8\FuzzyDiceOrderForm\bin\Debug\FuzzyDiceOrderForm.exe.config
+E:\hwork\Net1\Anthony\Chap14Prog8\FuzzyDiceOrderForm\obj\Debug\FuzzyDiceOrderForm.exe
+E:\hwork\Net1\Anthony\Chap14Prog8\FuzzyDiceOrderForm\obj\Debug\FuzzyDiceOrderForm.pdb
+E:\hwork\Net1\Anthony\Chap14Prog8\FuzzyDiceOrderForm\obj\Debug\FuzzyDiceOrderForm.Form1.resources
+E:\hwork\Net1\Anthony\Chap14Prog8\FuzzyDiceOrderForm\obj\Debug\FuzzyDiceOrderForm.Properties.Resources.resources
+E:\hwork\Net1\Anthony\Chap14Prog8\FuzzyDiceOrderForm\obj\Debug\Guess the Number Game.csproj.GenerateResource.Cache
+E:\hwork\Net1\Anthony\Chap14Prog8\FuzzyDiceOrderForm\bin\Debug\FuzzyDiceOrderForm.exe
+E:\hwork\Net1\Anthony\Chap14Prog8\FuzzyDiceOrderForm\bin\Debug\FuzzyDiceOrderForm.pdb

@@ -1,0 +1,38 @@
+
+body{
+	width: 960px;
+	margin: 20px auto 20px auto;
+	border: 2px solid #000000;
+	background-image: url(AFWebProBG.png);}
+
+a {
+	color: #de6581;
+	text-decoration: none;}
+nav, footer{
+	clear: both;
+	color: #ffffff;
+	background-color: #33cc33;
+	height: 30px;}
+nav li {
+	display: inline;
+	margin-right: 40px;}
+nav ul {
+	margin: 0px;
+	padding: 5px 0px 5px 30px;}
+nav li a {
+	color: #ffffff;}
+nav li a:hover, nav li a.current {
+	color: #000000;}
+iframe {
+	float:left;}}
+article p {
+	float:left;}
+article ul {
+	float:left;
+	width: 460px;}
+
+img {
+	transform: scale(.5);
+}
+
+

@@ -1,0 +1,6 @@
+Make everything work through a component
+Instead of listing the values iterate through them with an array
+Let the user see all of the rates
+Let the user select a different date.
+Make it look nicer.
+Make the code look nicer.

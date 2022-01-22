@@ -1,0 +1,8 @@
+Solution that was reviewed: CashRegister
+Coder: Benjamin Steier
+
+Review of the program without looking at the code:
+First off the Subtotal textbox isn't aligned correctly with the other textboxs. Press enter without entering anything tells me to enter something, good. I press total and nothing happens other then Tax and Total showing 0 (I expected nothing to show up, to give me an error, or the Subtotal having a 0 too). I press total and it won't enter the amount in the textbox (I guess you had a different prefference then me on this). Reset and Delete do what I expect. If I have multiple periods I'm told to enter an amount. The program crashes if I enter too many digits. Overall the program works well.
+
+Now for the code:
+Lots of comments. For your catch boxes you just need to include the type of exception unless you want more detailed information about it (Visual Studio even says that it isn't used). In your reset method you have unused string variables. Besides the unnessary variables everything is good.

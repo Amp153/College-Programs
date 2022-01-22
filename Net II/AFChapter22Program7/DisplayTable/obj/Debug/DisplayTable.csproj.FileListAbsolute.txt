@@ -1,0 +1,15 @@
+C:\Users\Owner\Documents\Visual Studio 2012\Projects\Chapter22Exercise7\DisplayTable\bin\Debug\DisplayTable.exe.config
+C:\Users\Owner\Documents\Visual Studio 2012\Projects\Chapter22Exercise7\DisplayTable\bin\Debug\Baseball.mdf
+C:\Users\Owner\Documents\Visual Studio 2012\Projects\Chapter22Exercise7\DisplayTable\bin\Debug\Baseball_log.ldf
+C:\Users\Owner\Documents\Visual Studio 2012\Projects\Chapter22Exercise7\DisplayTable\bin\Debug\DisplayTable.exe
+C:\Users\Owner\Documents\Visual Studio 2012\Projects\Chapter22Exercise7\DisplayTable\bin\Debug\DisplayTable.pdb
+C:\Users\Owner\Documents\Visual Studio 2012\Projects\Chapter22Exercise7\DisplayTable\bin\Debug\Chapter22Exercise7.dll
+C:\Users\Owner\Documents\Visual Studio 2012\Projects\Chapter22Exercise7\DisplayTable\bin\Debug\EntityFramework.dll
+C:\Users\Owner\Documents\Visual Studio 2012\Projects\Chapter22Exercise7\DisplayTable\bin\Debug\Chapter22Exercise7.pdb
+C:\Users\Owner\Documents\Visual Studio 2012\Projects\Chapter22Exercise7\DisplayTable\bin\Debug\EntityFramework.xml
+C:\Users\Owner\Documents\Visual Studio 2012\Projects\Chapter22Exercise7\DisplayTable\obj\Debug\DisplayTable.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Documents\Visual Studio 2012\Projects\Chapter22Exercise7\DisplayTable\obj\Debug\DisplayTable.DisplayPlayersTable.resources
+C:\Users\Owner\Documents\Visual Studio 2012\Projects\Chapter22Exercise7\DisplayTable\obj\Debug\DisplayTable.Properties.Resources.resources
+C:\Users\Owner\Documents\Visual Studio 2012\Projects\Chapter22Exercise7\DisplayTable\obj\Debug\DisplayTable.csproj.GenerateResource.Cache
+C:\Users\Owner\Documents\Visual Studio 2012\Projects\Chapter22Exercise7\DisplayTable\obj\Debug\DisplayTable.exe
+C:\Users\Owner\Documents\Visual Studio 2012\Projects\Chapter22Exercise7\DisplayTable\obj\Debug\DisplayTable.pdb

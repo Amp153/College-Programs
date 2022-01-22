@@ -1,0 +1,9 @@
+E:\hwork\Net1\Anthony\Chapter10Example\Chapter10Example\bin\Debug\Chapter10Example.exe.config
+E:\hwork\Net1\Anthony\Chapter10Example\Chapter10Example\bin\Debug\Chapter10Example.exe
+E:\hwork\Net1\Anthony\Chapter10Example\Chapter10Example\bin\Debug\Chapter10Example.pdb
+E:\hwork\Net1\Anthony\Chapter10Example\Chapter10Example\obj\Debug\Chapter10Example.csprojResolveAssemblyReference.cache
+E:\hwork\Net1\Anthony\Chapter10Example\Chapter10Example\obj\Debug\Chapter10Example.exe
+E:\hwork\Net1\Anthony\Chapter10Example\Chapter10Example\obj\Debug\Chapter10Example.pdb
+F:\hwork\Net1\Anthony\Chapter10Example\Chapter10Example\bin\Debug\Chapter10Example.exe.config
+F:\hwork\Net1\Anthony\Chapter10Example\Chapter10Example\obj\Debug\Chapter10Example.exe
+F:\hwork\Net1\Anthony\Chapter10Example\Chapter10Example\obj\Debug\Chapter10Example.pdb

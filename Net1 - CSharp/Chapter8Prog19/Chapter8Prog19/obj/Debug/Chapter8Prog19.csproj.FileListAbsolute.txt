@@ -1,0 +1,9 @@
+C:\Users\Student\Documents\Visual Studio 2012\Projects\Anthony\Chapter8Prog19\Chapter8Prog19\bin\Debug\Chapter8Prog19.exe.config
+C:\Users\Student\Documents\Visual Studio 2012\Projects\Anthony\Chapter8Prog19\Chapter8Prog19\obj\Debug\Chapter8Prog19.csprojResolveAssemblyReference.cache
+C:\Users\Student\Documents\Visual Studio 2012\Projects\Anthony\Chapter8Prog19\Chapter8Prog19\bin\Debug\Chapter8Prog19.exe
+C:\Users\Student\Documents\Visual Studio 2012\Projects\Anthony\Chapter8Prog19\Chapter8Prog19\bin\Debug\Chapter8Prog19.pdb
+C:\Users\Student\Documents\Visual Studio 2012\Projects\Anthony\Chapter8Prog19\Chapter8Prog19\obj\Debug\Chapter8Prog19.exe
+C:\Users\Student\Documents\Visual Studio 2012\Projects\Anthony\Chapter8Prog19\Chapter8Prog19\obj\Debug\Chapter8Prog19.pdb
+E:\hwork\Net1\Chapter8Prog19\Chapter8Prog19\bin\Debug\Chapter8Prog19.exe.config
+E:\hwork\Net1\Chapter8Prog19\Chapter8Prog19\obj\Debug\Chapter8Prog19.exe
+E:\hwork\Net1\Chapter8Prog19\Chapter8Prog19\obj\Debug\Chapter8Prog19.pdb

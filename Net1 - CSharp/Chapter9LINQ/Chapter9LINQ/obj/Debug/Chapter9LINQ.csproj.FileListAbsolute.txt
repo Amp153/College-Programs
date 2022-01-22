@@ -1,0 +1,9 @@
+C:\Users\Student\Documents\Visual Studio 2012\Projects\Anthony\Chapter9LINQ\Chapter9LINQ\bin\Debug\Chapter9LINQ.exe.config
+C:\Users\Student\Documents\Visual Studio 2012\Projects\Anthony\Chapter9LINQ\Chapter9LINQ\bin\Debug\Chapter9LINQ.exe
+C:\Users\Student\Documents\Visual Studio 2012\Projects\Anthony\Chapter9LINQ\Chapter9LINQ\bin\Debug\Chapter9LINQ.pdb
+C:\Users\Student\Documents\Visual Studio 2012\Projects\Anthony\Chapter9LINQ\Chapter9LINQ\obj\Debug\Chapter9LINQ.csprojResolveAssemblyReference.cache
+C:\Users\Student\Documents\Visual Studio 2012\Projects\Anthony\Chapter9LINQ\Chapter9LINQ\obj\Debug\Chapter9LINQ.exe
+C:\Users\Student\Documents\Visual Studio 2012\Projects\Anthony\Chapter9LINQ\Chapter9LINQ\obj\Debug\Chapter9LINQ.pdb
+E:\hwork\Net1\Chapter9LINQ\Chapter9LINQ\bin\Debug\Chapter9LINQ.exe.config
+E:\hwork\Net1\Chapter9LINQ\Chapter9LINQ\obj\Debug\Chapter9LINQ.exe
+E:\hwork\Net1\Chapter9LINQ\Chapter9LINQ\obj\Debug\Chapter9LINQ.pdb

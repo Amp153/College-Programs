@@ -1,0 +1,7 @@
+https://ionicframework.com/docs/components/
+
+are the important stuff for desktops
+ionic start
+ionic serve
+
+ionic lab is great

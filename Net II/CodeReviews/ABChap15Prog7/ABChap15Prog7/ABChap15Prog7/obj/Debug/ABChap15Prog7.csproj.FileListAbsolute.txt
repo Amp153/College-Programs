@@ -1,0 +1,36 @@
+c:\users\administrator\documents\visual studio 2015\Projects\ABChap15Prog7\ABChap15Prog7\bin\Debug\ABChap15Prog7.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\ABChap15Prog7\ABChap15Prog7\obj\Debug\ABChap15Prog7.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\ABChap15Prog7\ABChap15Prog7\obj\Debug\ABChap15Prog7.MyMDIForm.resources
+c:\users\administrator\documents\visual studio 2015\Projects\ABChap15Prog7\ABChap15Prog7\obj\Debug\ABChap15Prog7.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2015\Projects\ABChap15Prog7\ABChap15Prog7\obj\Debug\ABChap15Prog7.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2015\Projects\ABChap15Prog7\ABChap15Prog7\bin\Debug\ABChap15Prog7.exe
+c:\users\administrator\documents\visual studio 2015\Projects\ABChap15Prog7\ABChap15Prog7\bin\Debug\ABChap15Prog7.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\ABChap15Prog7\ABChap15Prog7\obj\Debug\ABChap15Prog7.exe
+c:\users\administrator\documents\visual studio 2015\Projects\ABChap15Prog7\ABChap15Prog7\obj\Debug\ABChap15Prog7.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\ABChap15Prog7\ABChap15Prog7\obj\Debug\ABChap15Prog7.ChildForm.resources
+E:\DotNet\ABChap15Prog7\ABChap15Prog7\ABChap15Prog7\bin\Debug\ABChap15Prog7.exe.config
+E:\DotNet\ABChap15Prog7\ABChap15Prog7\ABChap15Prog7\obj\Debug\ABChap15Prog7.exe
+E:\DotNet\ABChap15Prog7\ABChap15Prog7\ABChap15Prog7\obj\Debug\ABChap15Prog7.pdb
+E:\DotNet\ABChap15Prog7\ABChap15Prog7\ABChap15Prog7\obj\Debug\ABChap15Prog7.csprojResolveAssemblyReference.cache
+E:\DotNet\ABChap15Prog7\ABChap15Prog7\ABChap15Prog7\obj\Debug\ABChap15Prog7.ChildForm.resources
+E:\DotNet\ABChap15Prog7\ABChap15Prog7\ABChap15Prog7\obj\Debug\ABChap15Prog7.MyMDIForm.resources
+E:\DotNet\ABChap15Prog7\ABChap15Prog7\ABChap15Prog7\obj\Debug\ABChap15Prog7.Properties.Resources.resources
+E:\DotNet\ABChap15Prog7\ABChap15Prog7\ABChap15Prog7\obj\Debug\ABChap15Prog7.csproj.GenerateResource.Cache
+E:\DotNet\ABChap15Prog7\ABChap15Prog7\ABChap15Prog7\bin\Debug\ABChap15Prog7.exe
+E:\DotNet\ABChap15Prog7\ABChap15Prog7\ABChap15Prog7\bin\Debug\ABChap15Prog7.pdb
+E:\DotNet\ABChap15Prog7\ABChap15Prog7\ABChap15Prog7\bin\Debug\mscorlib.dll
+E:\DotNet\ABChap15Prog7\ABChap15Prog7\ABChap15Prog7\bin\Debug\normidna.nlp
+E:\DotNet\ABChap15Prog7\ABChap15Prog7\ABChap15Prog7\bin\Debug\normnfc.nlp
+E:\DotNet\ABChap15Prog7\ABChap15Prog7\ABChap15Prog7\bin\Debug\normnfd.nlp
+E:\DotNet\ABChap15Prog7\ABChap15Prog7\ABChap15Prog7\bin\Debug\normnfkc.nlp
+E:\DotNet\ABChap15Prog7\ABChap15Prog7\ABChap15Prog7\bin\Debug\normnfkd.nlp
+F:\Semester 3\Net II\CodeReviews\ABChap15Prog7\ABChap15Prog7\ABChap15Prog7\bin\Debug\ABChap15Prog7.exe.config
+F:\Semester 3\Net II\CodeReviews\ABChap15Prog7\ABChap15Prog7\ABChap15Prog7\obj\Debug\ABChap15Prog7.exe
+F:\Semester 3\Net II\CodeReviews\ABChap15Prog7\ABChap15Prog7\ABChap15Prog7\obj\Debug\ABChap15Prog7.pdb
+F:\Semester 3\Net II\CodeReviews\ABChap15Prog7\ABChap15Prog7\ABChap15Prog7\bin\Debug\ABChap15Prog7.exe
+F:\Semester 3\Net II\CodeReviews\ABChap15Prog7\ABChap15Prog7\ABChap15Prog7\bin\Debug\ABChap15Prog7.pdb
+F:\Semester 3\Net II\CodeReviews\ABChap15Prog7\ABChap15Prog7\ABChap15Prog7\obj\Debug\ABChap15Prog7.csprojResolveAssemblyReference.cache
+F:\Semester 3\Net II\CodeReviews\ABChap15Prog7\ABChap15Prog7\ABChap15Prog7\obj\Debug\ABChap15Prog7.ChildForm.resources
+F:\Semester 3\Net II\CodeReviews\ABChap15Prog7\ABChap15Prog7\ABChap15Prog7\obj\Debug\ABChap15Prog7.MyMDIForm.resources
+F:\Semester 3\Net II\CodeReviews\ABChap15Prog7\ABChap15Prog7\ABChap15Prog7\obj\Debug\ABChap15Prog7.Properties.Resources.resources
+F:\Semester 3\Net II\CodeReviews\ABChap15Prog7\ABChap15Prog7\ABChap15Prog7\obj\Debug\ABChap15Prog7.csproj.GenerateResource.Cache

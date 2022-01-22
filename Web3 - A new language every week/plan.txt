@@ -1,0 +1,75 @@
+Python seems easy to manage a database
+https://docs.djangoproject.com/en/2.0/intro/tutorial01/
+https://docs.djangoproject.com/en/2.0/intro/whatsnext/
+
+Use classes and multiple files
+(one long file is only good for one person)
+
+--Forum first
+
+Get it to look right first then mess with everything.
+
+Scan the database first for the links from the main page
+
+Every link will open a page using a different database (no user entry but exist)
+
+The databases will be updated with the following: title of thread,username,date,time (each thread is a new row)
+
+Each thread is it's own database that has all that (except won't do more threads) and has comments with username,date,time (If I can, try to find a way to make the creater of the thread leave a reply to comments).
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~
+Part 2
+
+--Have the weather app be a functional advertisement that goes to the weather source page.
+
+--has an ad to go back to the forum (slogan: upload your stories here)
+
+--ad goes to another site (my own, slogan: enhance photos online here)
+
+--in it you can upload an image and scale it while keeping image quality (not blurry zoomed in)
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+v2
+make the forum specialized for people learning japanese. (figure out how to monitize it)
+(why would they want to use my website? Personal preference [also I'll try to link some stuff in japanese])
+
+have it be mobile friendly (this is my app and can have the buttons wherever I want)
+have everything in english but have it so users can type in japanese(also if they want it can auto convert like wanikuni[I don't think I remembered the name correctly])
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+v3
+have it be a central hub for my games.
+where people can download or discuss it.
+I feel like I'm the type of person to have many games (I think most of them will become finished if I try to rush the beginning, middle, and end. Then improveing them as time moves on).
+
+have a night mode because easy on eyes
+~~~~~~~~~~~~~~~~~~
+for programming it
+
+https://code.tutsplus.com/tutorials/how-to-create-a-phpmysql-powered-forum-from-scratch--net-10188
+replies are a table (id,text,datetime,topic,replyNum)
+topics are a table (id,subject,datetime,categories,topicNum)
+users are a table (id,name,pass,email,date)
+categories are a table (id,name,description)
+
+https://docs.djangoproject.com/en/1.7/topics/templates/
+https://tutorial.djangogirls.org/en/django_views/
+http://www.tangowithdjango.com/book/chapters/templates.html#fig-rango-template-inheritance
+
+lets encrypt for other assignment
+
+index leads to different urls which are grabbed from urls.py, which sends you to the views.py, that does the logic and sends you the html
+https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Forms
+http://django-book.readthedocs.io/en/latest/chapter14.html
+https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Authentication
+https://simpleisbetterthancomplex.com/tutorial/2017/02/18/how-to-create-user-sign-up-view.html
+https://stackoverflow.com/questions/26312219/operationalerror-no-such-column-django
+
+change create_cat to index
+change the default url to forum
+Alright so I'm on step 7-8. They check if you are an admin before giving rights to create catagories.
+I want only admins to be able to create categories (so admin view). I want users to be able to create topics though step 9-12. Check that polls app tutorial since it was doing something similar only in python (main difference is that admins were the only ones who could mess with the polls but users could interact with them).
+
+given up https://simpleisbetterthancomplex.com/series/2017/09/04/a-complete-beginners-guide-to-django-part-1.html

@@ -1,0 +1,24 @@
+Anthony Fuller
+Web Programming II
+Chapter 3
+
+1.c
+2.a,c
+3.An escape character tells the compiler that the character following the escape character has a special purpose.
+4.b
+5.a
+6.Complex string syntax is used to separate variable names in strings. $Bird = "Duck" echo "<p>$Birds {$Bird}s</p>"; The displayed string will only be Duck because $Birds will display no text.
+7.False
+8.a
+9.c
+10.One returns a value in a text string and the other returns a character or substring.
+11.Use ===
+12.c
+13.$variable = strtok(string, separators)
+14.False
+15.a
+16.True
+17.b
+18.a,c,d
+19.True
+20.b

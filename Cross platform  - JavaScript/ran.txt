@@ -1,0 +1,4 @@
+angular essentials extension in vs code
+ionic generate component Name
+
+don't include node_modules in homework

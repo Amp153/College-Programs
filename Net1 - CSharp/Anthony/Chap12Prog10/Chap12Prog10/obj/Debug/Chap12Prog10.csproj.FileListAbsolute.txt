@@ -1,0 +1,6 @@
+E:\hwork\Net1\Anthony\Chap12Prog10\Chap12Prog10\bin\Debug\Chap12Prog10.exe.config
+E:\hwork\Net1\Anthony\Chap12Prog10\Chap12Prog10\obj\Debug\Chap12Prog10.csprojResolveAssemblyReference.cache
+E:\hwork\Net1\Anthony\Chap12Prog10\Chap12Prog10\bin\Debug\Chap12Prog10.exe
+E:\hwork\Net1\Anthony\Chap12Prog10\Chap12Prog10\bin\Debug\Chap12Prog10.pdb
+E:\hwork\Net1\Anthony\Chap12Prog10\Chap12Prog10\obj\Debug\Chap12Prog10.exe
+E:\hwork\Net1\Anthony\Chap12Prog10\Chap12Prog10\obj\Debug\Chap12Prog10.pdb

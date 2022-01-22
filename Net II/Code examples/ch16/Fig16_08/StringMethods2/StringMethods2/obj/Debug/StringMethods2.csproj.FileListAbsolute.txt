@@ -1,0 +1,4 @@
+C:\books\2012\VCSHARP2012HTP\examples\ch16\Fig16_08\StringMethods2\StringMethods2\bin\Debug\StringMethods2.exe
+C:\books\2012\VCSHARP2012HTP\examples\ch16\Fig16_08\StringMethods2\StringMethods2\bin\Debug\StringMethods2.pdb
+C:\books\2012\VCSHARP2012HTP\examples\ch16\Fig16_08\StringMethods2\StringMethods2\obj\Debug\StringMethods2.exe
+C:\books\2012\VCSHARP2012HTP\examples\ch16\Fig16_08\StringMethods2\StringMethods2\obj\Debug\StringMethods2.pdb

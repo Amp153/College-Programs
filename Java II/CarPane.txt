@@ -1,0 +1,75 @@
+public class CarPane extends Pane {
+  private double w = 200;
+  private double h = 200;
+  private double baseX = 0;
+  private double baseY = h;
+  private Circle c1 = new Circle(baseX + 10 + 5, baseY - 10 + 5, 5);
+  private Circle c2 = new Circle(baseX + 30 + 5, baseY - 10 + 5, 5);
+    
+  private Rectangle carBody = new Rectangle(baseX, baseY - 20, 50, 10);
+  private Polygon carTop = new Polygon(baseX + 10, baseY - 20, 
+            baseX + 20, baseY - 30, baseX + 30, baseY - 30, 
+            baseX + 40, baseY - 20);   
+ 
+      
+  public CarPane() {
+    carBody.setFill(Color.GREEN);
+    carTop.setFill(Color.RED);
+    this.getChildren().addAll(c1, c2, carBody, carTop);
+    //TODO    
+
+  }
+
+
+  
+  public void suspend() {
+    //TODO
+  }
+  
+  public void resume() {
+    //TODO
+  }
+  
+  public void faster() {
+    //TODO
+  }
+  
+  public void slower() {
+    sleepTime++;
+  }
+  
+  public void move() {
+    if (baseX > w)
+      baseX = -20;
+    else
+      baseX += 1;
+    
+    setValues();
+  }
+  
+  public void setValues() {
+    c1.setCenterX(baseX + 10 + 5);
+    c1.setCenterY(baseY - 10 + 5);
+    c2.setCenterX(baseX + 30 + 5);
+    c2.setCenterY(baseY - 10 + 5);
+
+    carBody.setX(baseX);
+    carBody.setY(baseY - 20);
+    
+    carTop.getPoints().clear();
+    carTop.getPoints().addAll(baseX + 10, baseY - 20, 
+            baseX + 20, baseY - 30, baseX + 30, baseY - 30, 
+            baseX + 40, baseY - 20);   
+  }
+  
+  public void setW(double w) {
+    this.w = w;
+    setValues();
+  }
+  
+  public void setH(double h) {
+    this.h = h;
+    baseY = h;
+    setValues();
+  }
+}

@@ -1,0 +1,12 @@
+C:\Users\Student\Documents\Visual Studio 2012\Projects\Anthony\Chapter4Prog12\Chapter4Prog12\bin\Debug\Chapter4Prog12.exe.config
+C:\Users\Student\Documents\Visual Studio 2012\Projects\Anthony\Chapter4Prog12\Chapter4Prog12\bin\Debug\Chapter4Prog12.exe
+C:\Users\Student\Documents\Visual Studio 2012\Projects\Anthony\Chapter4Prog12\Chapter4Prog12\bin\Debug\Chapter4Prog12.pdb
+C:\Users\Student\Documents\Visual Studio 2012\Projects\Anthony\Chapter4Prog12\Chapter4Prog12\obj\Debug\Chapter4Prog12.csprojResolveAssemblyReference.cache
+C:\Users\Student\Documents\Visual Studio 2012\Projects\Anthony\Chapter4Prog12\Chapter4Prog12\obj\Debug\Chapter4Prog12.exe
+C:\Users\Student\Documents\Visual Studio 2012\Projects\Anthony\Chapter4Prog12\Chapter4Prog12\obj\Debug\Chapter4Prog12.pdb
+F:\hwork\Net1\Anthony\Chapter4Prog12\Chapter4Prog12\bin\Debug\Chapter4Prog12.exe.config
+F:\hwork\Net1\Anthony\Chapter4Prog12\Chapter4Prog12\obj\Debug\Chapter4Prog12.exe
+F:\hwork\Net1\Anthony\Chapter4Prog12\Chapter4Prog12\obj\Debug\Chapter4Prog12.pdb
+E:\hwork\Net1\Anthony\Chapter4Prog12\Chapter4Prog12\bin\Debug\Chapter4Prog12.exe.config
+E:\hwork\Net1\Anthony\Chapter4Prog12\Chapter4Prog12\obj\Debug\Chapter4Prog12.exe
+E:\hwork\Net1\Anthony\Chapter4Prog12\Chapter4Prog12\obj\Debug\Chapter4Prog12.pdb

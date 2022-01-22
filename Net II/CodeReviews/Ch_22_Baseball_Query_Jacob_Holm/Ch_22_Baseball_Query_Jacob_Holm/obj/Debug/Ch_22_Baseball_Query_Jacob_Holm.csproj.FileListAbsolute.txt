@@ -1,0 +1,39 @@
+c:\users\jacob\documents\visual studio 2012\Projects\Ch_22_Baseball_Query_Jacob_Holm\Ch_22_Baseball_Query_Jacob_Holm\bin\Debug\Ch_22_Baseball_Query_Jacob_Holm.exe.config
+c:\users\jacob\documents\visual studio 2012\Projects\Ch_22_Baseball_Query_Jacob_Holm\Ch_22_Baseball_Query_Jacob_Holm\bin\Debug\Baseball.mdf
+c:\users\jacob\documents\visual studio 2012\Projects\Ch_22_Baseball_Query_Jacob_Holm\Ch_22_Baseball_Query_Jacob_Holm\bin\Debug\Baseball_log.ldf
+c:\users\jacob\documents\visual studio 2012\Projects\Ch_22_Baseball_Query_Jacob_Holm\Ch_22_Baseball_Query_Jacob_Holm\bin\Debug\Ch_22_Baseball_Query_Jacob_Holm.exe
+c:\users\jacob\documents\visual studio 2012\Projects\Ch_22_Baseball_Query_Jacob_Holm\Ch_22_Baseball_Query_Jacob_Holm\bin\Debug\Ch_22_Baseball_Query_Jacob_Holm.pdb
+c:\users\jacob\documents\visual studio 2012\Projects\Ch_22_Baseball_Query_Jacob_Holm\Ch_22_Baseball_Query_Jacob_Holm\bin\Debug\EntityFramework.dll
+c:\users\jacob\documents\visual studio 2012\Projects\Ch_22_Baseball_Query_Jacob_Holm\Ch_22_Baseball_Query_Jacob_Holm\bin\Debug\EntityFramework.xml
+c:\users\jacob\documents\visual studio 2012\Projects\Ch_22_Baseball_Query_Jacob_Holm\Ch_22_Baseball_Query_Jacob_Holm\obj\Debug\Ch_22_Baseball_Query_Jacob_Holm.csprojResolveAssemblyReference.cache
+c:\users\jacob\documents\visual studio 2012\Projects\Ch_22_Baseball_Query_Jacob_Holm\Ch_22_Baseball_Query_Jacob_Holm\obj\Debug\Ch_22_Baseball_Query_Jacob_Holm.Form1.resources
+c:\users\jacob\documents\visual studio 2012\Projects\Ch_22_Baseball_Query_Jacob_Holm\Ch_22_Baseball_Query_Jacob_Holm\obj\Debug\Ch_22_Baseball_Query_Jacob_Holm.Properties.Resources.resources
+c:\users\jacob\documents\visual studio 2012\Projects\Ch_22_Baseball_Query_Jacob_Holm\Ch_22_Baseball_Query_Jacob_Holm\obj\Debug\Ch_22_Baseball_Query_Jacob_Holm.csproj.GenerateResource.Cache
+c:\users\jacob\documents\visual studio 2012\Projects\Ch_22_Baseball_Query_Jacob_Holm\Ch_22_Baseball_Query_Jacob_Holm\obj\Debug\Ch_22_Baseball_Query_Jacob_Holm.exe
+c:\users\jacob\documents\visual studio 2012\Projects\Ch_22_Baseball_Query_Jacob_Holm\Ch_22_Baseball_Query_Jacob_Holm\obj\Debug\Ch_22_Baseball_Query_Jacob_Holm.pdb
+C:\Users\betty\OneDrive\Documents\Classes\.NET II\Sem I 17 - 18\Students\Jacob\Ch_22_Baseball_Query_Jacob_Holm\Ch_22_Baseball_Query_Jacob_Holm\bin\Debug\Ch_22_Baseball_Query_Jacob_Holm.exe.config
+C:\Users\betty\OneDrive\Documents\Classes\.NET II\Sem I 17 - 18\Students\Jacob\Ch_22_Baseball_Query_Jacob_Holm\Ch_22_Baseball_Query_Jacob_Holm\obj\Debug\Ch_22_Baseball_Query_Jacob_Holm.exe
+C:\Users\betty\OneDrive\Documents\Classes\.NET II\Sem I 17 - 18\Students\Jacob\Ch_22_Baseball_Query_Jacob_Holm\Ch_22_Baseball_Query_Jacob_Holm\obj\Debug\Ch_22_Baseball_Query_Jacob_Holm.pdb
+C:\Users\betty\OneDrive\Documents\Classes\.NET II\Sem I 17 - 18\Students\Jacob\Ch_22_Baseball_Query_Jacob_Holm\Ch_22_Baseball_Query_Jacob_Holm\obj\Debug\Ch_22_Baseball_Query_Jacob_Holm.csprojResolveAssemblyReference.cache
+C:\Users\betty\OneDrive\Documents\Classes\.NET II\Sem I 17 - 18\Students\Jacob\Ch_22_Baseball_Query_Jacob_Holm\Ch_22_Baseball_Query_Jacob_Holm\bin\Debug\Baseball.mdf
+C:\Users\betty\OneDrive\Documents\Classes\.NET II\Sem I 17 - 18\Students\Jacob\Ch_22_Baseball_Query_Jacob_Holm\Ch_22_Baseball_Query_Jacob_Holm\bin\Debug\Baseball_log.ldf
+C:\Users\betty\OneDrive\Documents\Classes\.NET II\Sem I 17 - 18\Students\Jacob\Ch_22_Baseball_Query_Jacob_Holm\Ch_22_Baseball_Query_Jacob_Holm\bin\Debug\Ch_22_Baseball_Query_Jacob_Holm.exe
+C:\Users\betty\OneDrive\Documents\Classes\.NET II\Sem I 17 - 18\Students\Jacob\Ch_22_Baseball_Query_Jacob_Holm\Ch_22_Baseball_Query_Jacob_Holm\bin\Debug\Ch_22_Baseball_Query_Jacob_Holm.pdb
+C:\Users\betty\OneDrive\Documents\Classes\.NET II\Sem I 17 - 18\Students\Jacob\Ch_22_Baseball_Query_Jacob_Holm\Ch_22_Baseball_Query_Jacob_Holm\bin\Debug\EntityFramework.dll
+C:\Users\betty\OneDrive\Documents\Classes\.NET II\Sem I 17 - 18\Students\Jacob\Ch_22_Baseball_Query_Jacob_Holm\Ch_22_Baseball_Query_Jacob_Holm\bin\Debug\EntityFramework.xml
+C:\Users\betty\OneDrive\Documents\Classes\.NET II\Sem I 17 - 18\Students\Jacob\Ch_22_Baseball_Query_Jacob_Holm\Ch_22_Baseball_Query_Jacob_Holm\obj\Debug\Ch_22_Baseball_Query_Jacob_Holm.JacobHolm_Baseball_Query.resources
+C:\Users\betty\OneDrive\Documents\Classes\.NET II\Sem I 17 - 18\Students\Jacob\Ch_22_Baseball_Query_Jacob_Holm\Ch_22_Baseball_Query_Jacob_Holm\obj\Debug\Ch_22_Baseball_Query_Jacob_Holm.Properties.Resources.resources
+C:\Users\betty\OneDrive\Documents\Classes\.NET II\Sem I 17 - 18\Students\Jacob\Ch_22_Baseball_Query_Jacob_Holm\Ch_22_Baseball_Query_Jacob_Holm\obj\Debug\Ch_22_Baseball_Query_Jacob_Holm.csproj.GenerateResource.Cache
+F:\Semester 3\Net II\CodeReviews\Ch_22_Baseball_Query_Jacob_Holm\Ch_22_Baseball_Query_Jacob_Holm\bin\Debug\Ch_22_Baseball_Query_Jacob_Holm.exe.config
+F:\Semester 3\Net II\CodeReviews\Ch_22_Baseball_Query_Jacob_Holm\Ch_22_Baseball_Query_Jacob_Holm\obj\Debug\Ch_22_Baseball_Query_Jacob_Holm.exe
+F:\Semester 3\Net II\CodeReviews\Ch_22_Baseball_Query_Jacob_Holm\Ch_22_Baseball_Query_Jacob_Holm\obj\Debug\Ch_22_Baseball_Query_Jacob_Holm.pdb
+F:\Semester 3\Net II\CodeReviews\Ch_22_Baseball_Query_Jacob_Holm\Ch_22_Baseball_Query_Jacob_Holm\bin\Debug\Baseball.mdf
+F:\Semester 3\Net II\CodeReviews\Ch_22_Baseball_Query_Jacob_Holm\Ch_22_Baseball_Query_Jacob_Holm\bin\Debug\Baseball_log.ldf
+F:\Semester 3\Net II\CodeReviews\Ch_22_Baseball_Query_Jacob_Holm\Ch_22_Baseball_Query_Jacob_Holm\bin\Debug\Ch_22_Baseball_Query_Jacob_Holm.exe
+F:\Semester 3\Net II\CodeReviews\Ch_22_Baseball_Query_Jacob_Holm\Ch_22_Baseball_Query_Jacob_Holm\bin\Debug\Ch_22_Baseball_Query_Jacob_Holm.pdb
+F:\Semester 3\Net II\CodeReviews\Ch_22_Baseball_Query_Jacob_Holm\Ch_22_Baseball_Query_Jacob_Holm\bin\Debug\EntityFramework.dll
+F:\Semester 3\Net II\CodeReviews\Ch_22_Baseball_Query_Jacob_Holm\Ch_22_Baseball_Query_Jacob_Holm\bin\Debug\EntityFramework.xml
+F:\Semester 3\Net II\CodeReviews\Ch_22_Baseball_Query_Jacob_Holm\Ch_22_Baseball_Query_Jacob_Holm\obj\Debug\Ch_22_Baseball_Query_Jacob_Holm.csprojResolveAssemblyReference.cache
+F:\Semester 3\Net II\CodeReviews\Ch_22_Baseball_Query_Jacob_Holm\Ch_22_Baseball_Query_Jacob_Holm\obj\Debug\Ch_22_Baseball_Query_Jacob_Holm.JacobHolm_Baseball_Query.resources
+F:\Semester 3\Net II\CodeReviews\Ch_22_Baseball_Query_Jacob_Holm\Ch_22_Baseball_Query_Jacob_Holm\obj\Debug\Ch_22_Baseball_Query_Jacob_Holm.Properties.Resources.resources
+F:\Semester 3\Net II\CodeReviews\Ch_22_Baseball_Query_Jacob_Holm\Ch_22_Baseball_Query_Jacob_Holm\obj\Debug\Ch_22_Baseball_Query_Jacob_Holm.csproj.GenerateResource.Cache

@@ -1,0 +1,12 @@
+E:\hwork\Net1\Anthony\Chapter10Prog5\Chapter10Prog5\bin\Debug\Chapter10Prog5.exe.config
+F:\hwork\Net1\Anthony\Chapter10Prog5\Chapter10Prog5\bin\Debug\Chapter10Prog5.exe.config
+F:\hwork\Net1\Anthony\Chapter10Prog5\Chapter10Prog5\obj\Debug\Chapter10Prog5.csprojResolveAssemblyReference.cache
+F:\hwork\Net1\Anthony\Chapter10Prog5\Chapter10Prog5\bin\Debug\Chapter10Prog5.exe
+F:\hwork\Net1\Anthony\Chapter10Prog5\Chapter10Prog5\bin\Debug\Chapter10Prog5.pdb
+F:\hwork\Net1\Anthony\Chapter10Prog5\Chapter10Prog5\obj\Debug\Chapter10Prog5.exe
+F:\hwork\Net1\Anthony\Chapter10Prog5\Chapter10Prog5\obj\Debug\Chapter10Prog5.pdb
+E:\hwork\Net1\Anthony\Chapter10Prog5\Chapter10Prog5\obj\Debug\Chapter10Prog5.exe
+E:\hwork\Net1\Anthony\Chapter10Prog5\Chapter10Prog5\obj\Debug\Chapter10Prog5.pdb
+E:\hwork\Net1\Anthony\Chapter10Prog5\Chapter10Prog5\bin\Debug\Chapter10Prog5.exe
+E:\hwork\Net1\Anthony\Chapter10Prog5\Chapter10Prog5\bin\Debug\Chapter10Prog5.pdb
+E:\hwork\Net1\Anthony\Chapter10Prog5\Chapter10Prog5\obj\Debug\Chapter10Prog5.csprojResolveAssemblyReference.cache

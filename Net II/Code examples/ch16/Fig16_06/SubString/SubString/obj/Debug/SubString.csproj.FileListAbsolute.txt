@@ -1,0 +1,4 @@
+C:\books\2012\VCSHARP2012HTP\examples\ch16\Fig16_06\SubString\SubString\bin\Debug\SubString.exe
+C:\books\2012\VCSHARP2012HTP\examples\ch16\Fig16_06\SubString\SubString\bin\Debug\SubString.pdb
+C:\books\2012\VCSHARP2012HTP\examples\ch16\Fig16_06\SubString\SubString\obj\Debug\SubString.exe
+C:\books\2012\VCSHARP2012HTP\examples\ch16\Fig16_06\SubString\SubString\obj\Debug\SubString.pdb

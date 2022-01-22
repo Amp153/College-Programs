@@ -1,0 +1,147 @@
+C:\xampp\mysql\bin
+mysql -h localhost -u root -p
+password
+
+log in with localhost:3308 and no password for xampp
+
+also localhost/phpmyadmin
+
+
+
+if you change the port
+$cfg['Servers'][$i]['host'] = '127.0.0.1:3308';
+
+for 7.1
+CREATE DATABASE chinese_zodiac;
+
+Use chinese_zodiac;
+
+SELECT DATABASE();
+
+CREATE TABLE zodiacsigns (Sign VARCHAR(10),
+President VARCHAR(75));
+
+DESCRIBE zodiacsigns;
+
+INSERT INTO zodiacsigns (Sign, President)
+VALUES ('Rat','George Washington');
+INSERT INTO zodiacsigns (Sign, President)
+VALUES ('Ox','Barack Obama');
+INSERT INTO zodiacsigns (Sign, President)
+VALUES ('Tiger','Dwight Eisenhower');
+INSERT INTO zodiacsigns (Sign, President)
+VALUES ('Rabbit','John Adams');
+INSERT INTO zodiacsigns (Sign, President)
+VALUES ('Dragon','Abraham Lincoln');
+INSERT INTO zodiacsigns (Sign, President)
+VALUES ('Snake','John Kennedy');
+INSERT INTO zodiacsigns (Sign, President)
+VALUES ('Horse','Theodore Roosevelt');
+INSERT INTO zodiacsigns (Sign, President)
+VALUES ('Goat','James Madison');
+INSERT INTO zodiacsigns (Sign, President)
+VALUES ('Monkey','Harry Truman');
+INSERT INTO zodiacsigns (Sign, President)
+VALUES ('Rooster','Grover Cleveland');
+INSERT INTO zodiacsigns (Sign, President)
+VALUES ('Dog','George Walker Bush');
+INSERT INTO zodiacsigns (Sign, President)
+VALUES ('Pig','Ronald Reagan');
+
+SELECT * FROM zodiacsigns;
+
+-take a picture
+
+for 7.2
+
+SELECT DATABASE();
+
+CREATE TABLE zodiacfeedback (message_date DATE,
+message_time TIME, sender VARCHAR(40),
+message VARCHAR(250), public_message ENUM('Y','N'));
+
+DESCRIBE zodiacfeedback;
+
+-take a picture
+
+for 7.3
+
+SELECT DATABASE();
+
+CREATE TABLE zodiacyears (Year INT(4),
+Sign VARCHAR(10));
+
+-take a picture
+
+DESCRIBE zodiacyears;
+
+-take a picture
+
+for 7.3
+
+SELECT DATABASE();
+
+LOAD DATA INFILE 
+'F:\Semester 3\Web Programming II\Homework\ChineseZodiac\Images\zodiac_years.txt' (use / because windows is dumb)
+INTO TABLE zodiacyears;
+
+SELECT * FROM zodiacyears
+ORDER BY Sign, Year;
+
+-take a picture
+
+
+SELECT DATABASE();
+
+CREATE TABLE randomproverb (proverb_number INT(3),
+proverb VARCHAR(100),display_count INT(3));
+
+LOAD DATA INFILE 
+'F:\Semester 3\Web Programming II\Homework\ChineseZodiac\proverb_load.txt'
+INTO TABLE randomproverb;
+
+SELECT * FROM randomproverb;
+
+-take a picture
+
+collegecentral.com/dctc
+
+scitechmn.org
+
+9-1
+CREATE TABLE visit_counter (id INT(3) AUTO_IMPLEMENT,
+counter INT(5));
+//id should be auto-implement primary try phpmyadmin if doesn't work
+
+INSERT INTO visit_counter (id, counter)
+VALUES (NULL,'0');
+//id should be automatically set to 1
+
+9-5
+
+$db_table = "zodiac_profiles";
+
+$SQLString = "CREATE TABLE $db_table(profile_id INT NOT NULL AUTO_INCREMENT,
+		first_name VARCHAR(25) NOT NULL,
+		last_name VARCHAR(25) NOT NULL,
+		user_email VARCHAR(255) NOT NULL,
+		user_name VARCHAR(25) NOT NULL,
+		user_password VARCHAR(25) NOT NULL,
+		user_sign VARCHAR(25) NOT NULL,
+		user_profile TEXT NOT NULL, //doublecheck
+		PRIMARY KEY (profile_id))";
+
+$db_table = "profile_pictures";
+
+$SQLString = "CREATE TABLE $db_table(profile_id INT NOT NULL,
+		profile_title VARCHAR(100) NOT NULL,
+		picture_ link VARCHAR(200) NOT NULL)";
+
+Review question 13- typo should be inside of domain NOT OUTSIDE
+
+10-1
+USE chinese_zodiac;
+
+CREATE TABLE event_calendar (EventID INT
+AUTO_INCREMENT PRIMARY KEY, EventDate DATE,
+Title VARCHAR(50), Description VARCHAR(250));

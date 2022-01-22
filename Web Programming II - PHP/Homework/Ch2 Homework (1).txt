@@ -1,0 +1,40 @@
+Questions:  8/10           30/40
+Program:  22/30
+
+Discovery project 2
+The 5 include files should be put together as described in Table 2-1
+inc_header.php: 1 html statement to pull in the banner image
+inc_button_nav.php: pull in the 9 button images
+inc_text_links.php....
+inc_footer.php......
+inc_home.php .....
+
+The 2 loop files - look god. FYI - in future chapters these files will be pulled into the main page, and hence you will not 
+need any of the html header type pf tags
+
+In the while loop file, change the 2nd for loop over to a while loop
+
+Anthony Fuller
+Web Programming II
+Chapter 2
+
+1.c
+2.False
+3.   ***    Use return x;   where x represents a value that is to be passed back to the invoker function
+4.d
+5.c
+6.    ***  pass by reference provides a copy of what is in the variable. pass by reference passes an address of the variable
+7.c
+8.d
+9.b
+10.d
+11.False
+12.d
+13.a
+14.b
+15.b
+16.c
+17.If there is no condition that can make the statement true 
+18.a
+19.b  *** a
+20 **** true

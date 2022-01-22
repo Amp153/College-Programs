@@ -1,0 +1,27 @@
+C:\books\2012\VCSHARP2012HTP\solutions\sol_ch17\Ex17_08\StudentPoll\StudentPoll\bin\Debug\StudentPoll.exe
+C:\books\2012\VCSHARP2012HTP\solutions\sol_ch17\Ex17_08\StudentPoll\StudentPoll\bin\Debug\StudentPoll.pdb
+C:\books\2012\VCSHARP2012HTP\solutions\sol_ch17\Ex17_08\StudentPoll\StudentPoll\obj\Debug\StudentPoll.Properties.Resources.resources
+C:\books\2012\VCSHARP2012HTP\solutions\sol_ch17\Ex17_08\StudentPoll\StudentPoll\obj\Debug\StudentPoll.StudentPollForm.resources
+C:\books\2012\VCSHARP2012HTP\solutions\sol_ch17\Ex17_08\StudentPoll\StudentPoll\obj\Debug\StudentPoll.csproj.GenerateResource.Cache
+C:\books\2012\VCSHARP2012HTP\solutions\sol_ch17\Ex17_08\StudentPoll\StudentPoll\obj\Debug\StudentPoll.exe
+C:\books\2012\VCSHARP2012HTP\solutions\sol_ch17\Ex17_08\StudentPoll\StudentPoll\obj\Debug\StudentPoll.pdb
+C:\Users\bkrue\Documents\Classes\.NET I\C# 2012\Solutions\sol_ch17\Ex17_08\StudentPoll\StudentPoll\obj\Debug\StudentPoll.exe
+C:\Users\bkrue\Documents\Classes\.NET I\C# 2012\Solutions\sol_ch17\Ex17_08\StudentPoll\StudentPoll\obj\Debug\StudentPoll.pdb
+C:\Users\bkrue\Documents\Classes\.NET I\C# 2012\Solutions\sol_ch17\StudentPoll\StudentPoll\obj\Debug\StudentPoll.exe
+C:\Users\bkrue\Documents\Classes\.NET I\C# 2012\Solutions\sol_ch17\StudentPoll\StudentPoll\obj\Debug\StudentPoll.pdb
+F:\Semester 3\Net II\ch17\StudentPoll\StudentPoll\obj\Debug\StudentPoll.exe
+F:\Semester 3\Net II\ch17\StudentPoll\StudentPoll\obj\Debug\StudentPoll.pdb
+F:\Semester 3\Net II\ch17\StudentPoll\StudentPoll\bin\Debug\StudentPoll.exe
+F:\Semester 3\Net II\ch17\StudentPoll\StudentPoll\bin\Debug\StudentPoll.pdb
+F:\Semester 3\Net II\ch17\StudentPoll\StudentPoll\obj\Debug\StudentPoll.csprojResolveAssemblyReference.cache
+F:\Semester 3\Net II\ch17\StudentPoll\StudentPoll\obj\Debug\StudentPoll.Properties.Resources.resources
+F:\Semester 3\Net II\ch17\StudentPoll\StudentPoll\obj\Debug\StudentPoll.StudentPollForm.resources
+F:\Semester 3\Net II\ch17\StudentPoll\StudentPoll\obj\Debug\StudentPoll.csproj.GenerateResource.Cache
+E:\Semester 3\Net II\ch17\StudentPoll\StudentPoll\obj\Debug\StudentPoll.exe
+E:\Semester 3\Net II\ch17\StudentPoll\StudentPoll\obj\Debug\StudentPoll.pdb
+E:\Semester 3\Net II\ch17\StudentPoll\StudentPoll\bin\Debug\StudentPoll.exe
+E:\Semester 3\Net II\ch17\StudentPoll\StudentPoll\bin\Debug\StudentPoll.pdb
+E:\Semester 3\Net II\ch17\StudentPoll\StudentPoll\obj\Debug\StudentPoll.csprojResolveAssemblyReference.cache
+E:\Semester 3\Net II\ch17\StudentPoll\StudentPoll\obj\Debug\StudentPoll.Properties.Resources.resources
+E:\Semester 3\Net II\ch17\StudentPoll\StudentPoll\obj\Debug\StudentPoll.StudentPollForm.resources
+E:\Semester 3\Net II\ch17\StudentPoll\StudentPoll\obj\Debug\StudentPoll.csproj.GenerateResource.Cache

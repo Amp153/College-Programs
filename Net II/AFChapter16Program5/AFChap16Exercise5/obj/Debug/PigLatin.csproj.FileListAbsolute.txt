@@ -1,0 +1,3 @@
+F:\Semester 3\Net II\PigLatin\AFChap16Exercise5\bin\Debug\AFChap16Exercise5.exe.config
+F:\Semester 3\Net II\PigLatin\AFChap16Exercise5\obj\Debug\AFChap16Exercise5.exe
+F:\Semester 3\Net II\PigLatin\AFChap16Exercise5\obj\Debug\AFChap16Exercise5.pdb

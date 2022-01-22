@@ -1,0 +1,4 @@
+
+CREATE TABLE event_calendar (EventID INT
+AUTO_INCREMENT PRIMARY KEY, EventDate DATE,
+Title VARCHAR(50), Description VARCHAR(250));

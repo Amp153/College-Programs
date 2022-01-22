@@ -1,0 +1,145 @@
+Anthony Fuller
+
+Chapter 3 Assignment
+
+
+
+1. Structured Query Language
+
+13.DROP TABLE PET_OWNER;
+
+14. DROP TABLE PET_OWNER;
+
+15. SELECT PetID, PetName, PetType, PetBreed, PetDOB, OwnerID
+FROM PET;
+
+16. SELECT(*)
+FROM PET;
+
+17. SELECT PetName, PetType, PetBreed
+FROM PET;
+
+18. SELECT PetName, PetBreed, PetType, PetDOB
+FROM PET
+WHERE PetType='Dog';
+
+19.SELECT PetBreed
+FROM PET;
+
+20.SELECT DISTINCT PetBreed
+FROM PET;
+
+21.SELECT PetName, PetBreed, PetType, PetDOB
+FROM PET
+WHERE PetType='Dog' AND PetBreed='Std. Poodle';
+
+22.SELECT PetName, PetBreed, PetType
+FROM PET
+WHERE PetType NOT IN ('Dog', 'Cat', 'Fish');
+
+23. This code doesn't work without a trailing asterick(*).
+SELECT PetID, PetName, PetBreed, PetType
+FROM PET
+WHERE PetName LIKE 'K???';
+
+24.SELECT OwnerLastName, OwnerFirstName, OwnerEmail
+FROM PET_Owner
+WHERE OwnerEmail LIKE '*somewhere.com';
+
+25.SELECT OwnerLastName, OwnerFirstName, OwnerEmail
+FROM PET_Owner
+WHERE OwnerPhone IS NULL;
+
+26.SELECT PetName, PetBreed
+FROM PET
+ORDER BY PetName;
+
+27.SELECT PetName, PetBreed
+FROM PET
+ORDER BY PetBreed ASC, PetName DESC;
+
+28.SELECT COUNT(*)
+FROM PET;
+
+29.SELECT COUNT(*) AS Breeds
+FROM (SELECT DISTINCT PetBreed
+FROM PET);
+
+30.CREATE TABLE PET_3(
+PetID INTEGER PRIMARY KEY,
+PetName TEXT(20) NOT NULL,
+PetType TEXT(10) NOT NULL,
+PetBreed TEXT(20) NOT NULL,
+PetDOB TEXT(15),
+PetWeight NUMERIC NOT NULL,
+OwnerID INTEGER NOT NULL,
+CONSTRAINT OwnIDfk FOREIGN KEY(OwnerID) REFERENCES PET_Owner(OwnerID) );
+
+31.SELECT MIN(PetWeight) AS MINIMUM, 
+MAX(PetWeight) AS MAX, ROUND(AVG(PetWeight),2) AS AVERAGE
+FROM PET_3;
+
+32.SELECT DISTINCT PetBreed, AVG(PetWeight) AS Weight
+FROM PET_3
+GROUP BY PetBreed;
+
+33.SELECT DISTINCT PetBreed, AVG(PetWeight) AS Weight
+FROM PET_3
+GROUP BY PetBreed
+HAVING COUNT(PetBreed) > 1;
+
+34.SELECT DISTINCT PetBreed, AVG(PetWeight) AS Weight
+FROM PET_3
+WHERE PetBreed <> 'Unknown'
+GROUP BY PetBreed
+HAVING COUNT(PetBreed) > 1;
+
+35.SELECT OwnerLastName, OwnerFirstName, OwnerEmail
+From Pet_Owner
+WHERE OwnerID IN (SELECT OwnerID
+FROM PET_3
+WHERE PetType = 'Cat');
+
+36.SELECT OwnerLastName, OwnerFirstName, OwnerEmail
+From Pet_Owner
+WHERE OwnerID IN (SELECT OwnerID
+FROM PET_3
+WHERE PetType = 'Cat' AND
+ PetName = 'Teddy');
+
+37.(1)CREATE TABLE BREED(
+BreedName TEXT(20) PRIMARY KEY,
+MinWeight NUMERIC,
+MaxWeight NUMERIC,
+AverageLifeExpectency NUMERIC);
+(2)INSERT INTO BREED VALUES('Border Collie', 15.0, 22.5, 20);
+NSERT INTO BREED VALUES('Cashmere', 10.0, 15.0, 12);
+INSERT INTO BREED VALUES('Collie Mix', 17.5, 25.0, 18);
+INSERT INTO BREED VALUES('Std. Poodle', 22.5, 30.0, 18);
+INSERT INTO BREED (BreedName) VALUES('Unknown');
+(3)
+CONSTRAINT BrNfk FOREIGN KEY(BreedName) REFERENCES PET_3(PetBreed) );
+
+38.SELECT DISTINCT OwnerLastName, OwnerFirstName, OwnerEmail
+From Pet_Owner INNER JOIN PET_3 ON Pet_Owner.OwnerID = Pet_3.OwnerID
+WHERE PetType = 'Cat';
+
+39.SELECT DISTINCT OwnerLastName, OwnerFirstName, OwnerEmail
+From Pet_Owner INNER JOIN PET_3 ON Pet_Owner.OwnerID = Pet_3.OwnerID
+WHERE PetType = 'Cat' AND PetName = 'Teddy';
+
+40.
+41.
+42.
+43.
+
+44.UPDATE Pet_3
+SET 'Std. Poodle' = 'Poodle, Std'
+WHERE BreedName = 'Std. Poodle';
+
+45.Crash
+
+46.
+47.
+48.
+51.DROP Column PetWeight;

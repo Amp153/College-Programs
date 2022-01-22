@@ -1,0 +1,23 @@
+Anthony Fuller
+Web Programming II
+Chapter 2
+
+1.c
+2.False
+3.
+4.d
+5.c
+6.
+7.c
+8.d
+9.b
+10.d
+11.False
+12.d
+13.a
+14.b
+15.b
+16.c
+17.If there is no condition that can make the statement true 
+18.a
+19.b

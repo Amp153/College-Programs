@@ -1,0 +1,16 @@
+C:\books\2012\VCSHARP2012HTP\examples\ch16\Fig16_21\Validate\Validate\bin\Debug\Validate.exe
+C:\books\2012\VCSHARP2012HTP\examples\ch16\Fig16_21\Validate\Validate\bin\Debug\Validate.pdb
+C:\books\2012\VCSHARP2012HTP\examples\ch16\Fig16_21\Validate\Validate\obj\Debug\Validate.csprojResolveAssemblyReference.cache
+C:\books\2012\VCSHARP2012HTP\examples\ch16\Fig16_21\Validate\Validate\obj\Debug\Validate.Properties.Resources.resources
+C:\books\2012\VCSHARP2012HTP\examples\ch16\Fig16_21\Validate\Validate\obj\Debug\Validate.ValidateForm.resources
+C:\books\2012\VCSHARP2012HTP\examples\ch16\Fig16_21\Validate\Validate\obj\Debug\Validate.csproj.GenerateResource.Cache
+C:\books\2012\VCSHARP2012HTP\examples\ch16\Fig16_21\Validate\Validate\obj\Debug\Validate.exe
+C:\books\2012\VCSHARP2012HTP\examples\ch16\Fig16_21\Validate\Validate\obj\Debug\Validate.pdb
+F:\Semester 3\Net II\Code examples\ch16\Fig16_21\Validate\Validate\obj\Debug\Validate.exe
+F:\Semester 3\Net II\Code examples\ch16\Fig16_21\Validate\Validate\obj\Debug\Validate.pdb
+F:\Semester 3\Net II\Code examples\ch16\Fig16_21\Validate\Validate\bin\Debug\Validate.exe
+F:\Semester 3\Net II\Code examples\ch16\Fig16_21\Validate\Validate\bin\Debug\Validate.pdb
+F:\Semester 3\Net II\Code examples\ch16\Fig16_21\Validate\Validate\obj\Debug\Validate.csprojResolveAssemblyReference.cache
+F:\Semester 3\Net II\Code examples\ch16\Fig16_21\Validate\Validate\obj\Debug\Validate.Properties.Resources.resources
+F:\Semester 3\Net II\Code examples\ch16\Fig16_21\Validate\Validate\obj\Debug\Validate.ValidateForm.resources
+F:\Semester 3\Net II\Code examples\ch16\Fig16_21\Validate\Validate\obj\Debug\Validate.csproj.GenerateResource.Cache

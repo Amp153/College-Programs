@@ -1,0 +1,8 @@
+Solution that was reviewed: CashRegister-32
+Coder: ?
+
+Review of the program without looking at the code:
+First, I click all of the buttons without entering anything and the program crashes giving me an ArgumentOutOfRangeException. To prevent this all you need to do is clear the textbox instead of doing txt1.Text.Length - 1. Testing the functionality of the app I can't get a subtotal to appear. Overall I don't like how the app doesn't work and crashes easily
+
+Now for the code:
+No comments. What is txt1? I can see that nothing is coded for the enter and add buttons. The clear button only clears the txt1 text box. Delete should clear the whole text box not remove 1 character from the string. txt1_TextChanged doesn't need to be added just don't have the user enter anything without using your buttons. Overall this clearly isn't finished and only a minimal amount of effort can be seen.

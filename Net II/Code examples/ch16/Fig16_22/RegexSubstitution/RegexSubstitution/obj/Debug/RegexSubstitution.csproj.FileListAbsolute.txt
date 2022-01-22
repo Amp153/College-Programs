@@ -1,0 +1,4 @@
+C:\books\2012\VCSHARP2012HTP\examples\ch16\Fig16_22\RegexSubstitution\RegexSubstitution\bin\Debug\RegexSubstitution.exe
+C:\books\2012\VCSHARP2012HTP\examples\ch16\Fig16_22\RegexSubstitution\RegexSubstitution\bin\Debug\RegexSubstitution.pdb
+C:\books\2012\VCSHARP2012HTP\examples\ch16\Fig16_22\RegexSubstitution\RegexSubstitution\obj\Debug\RegexSubstitution.exe
+C:\books\2012\VCSHARP2012HTP\examples\ch16\Fig16_22\RegexSubstitution\RegexSubstitution\obj\Debug\RegexSubstitution.pdb
